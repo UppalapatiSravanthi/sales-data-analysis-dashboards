@@ -1,0 +1,1251 @@
+Order ID,Order Date,Customer Name,Product Name,Category,Region,Quantity,Unit Price,Total Sales,Cost,Profit
+ORD-10037,2023-01-01,George Jones,Executive High-Back Leather Chair,Furniture,North,2,349.0,698.0,469.61,228.39
+ORD-11187,2023-01-02,Donna Anderson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,3,54.5,163.5,133.8,29.7
+ORD-10098,2023-01-02,Ashley Johnson,Magnetic Whiteboard 48x36,Office Supplies,East,1,95.0,95.0,57.21,37.79
+ORD-10647,2023-01-02,Jessica Walker,Surge Protector 12-Outlet Power Strip,Accessories,West,2,38.0,76.0,38.8,37.2
+ORD-11091,2023-01-05,Kimberly Taylor,Surge Protector 12-Outlet Power Strip,Accessories,East,2,38.0,76.0,35.66,40.34
+ORD-10287,2023-01-07,Matthew Moore,Mobile 3-Drawer File Cabinet,Furniture,South,2,145.0,290.0,195.6,94.4
+ORD-10328,2023-01-07,William Thomas,Logitech 4K Pro Webcam,Electronics,West,1,199.99,199.99,209.07,-9.08
+ORD-10517,2023-01-08,Matthew Harris,Keychron Mechanical Wireless Keyboard,Accessories,Central,5,119.0,595.0,373.29,221.71
+ORD-11198,2023-01-09,David Ramirez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,1,54.5,54.5,40.39,14.11
+ORD-11224,2023-01-09,Joshua Robinson,Dry Erase Marker 24-Color Pack,Office Supplies,East,1,19.99,19.99,8.17,11.82
+ORD-10382,2023-01-10,Kevin Hernandez,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,125.47,74.52
+ORD-11077,2023-01-11,Jennifer Brown,Logitech 4K Pro Webcam,Electronics,West,4,199.99,799.96,486.14,313.82
+ORD-10627,2023-01-11,Ashley Johnson,Ergonomic Mesh Office Chair,Furniture,West,2,289.0,578.0,377.83,200.17
+ORD-10416,2023-01-13,Betty Moore,Solid Oak Conference Table,Furniture,North,3,890.0,2670.0,1944.31,725.69
+ORD-10558,2023-01-13,Robert Wright,Keychron Mechanical Wireless Keyboard,Accessories,East,4,119.0,476.0,307.9,168.1
+ORD-10718,2023-01-13,David Ramirez,Surge Protector 12-Outlet Power Strip,Accessories,West,2,38.0,76.0,43.85,32.15
+ORD-10497,2023-01-13,Mark Davis,Aluminum Laptop Stand Riser,Accessories,East,3,45.0,135.0,66.2,68.8
+ORD-10418,2023-01-15,Matthew Moore,Anker 10-in-1 USB-C Hub,Electronics,North,1,89.99,89.99,54.42,35.57
+ORD-10665,2023-01-16,Thomas King,Aluminum Laptop Stand Riser,Accessories,North,1,45.0,45.0,21.34,23.66
+ORD-10715,2023-01-16,Amanda Ramirez,Anker 10-in-1 USB-C Hub,Electronics,South,1,89.99,89.99,54.53,35.46
+ORD-10318,2023-01-16,Kevin Flores,Anker 10-in-1 USB-C Hub,Electronics,Central,1,89.99,89.99,56.69,33.3
+ORD-10330,2023-01-17,Kevin Davis,Magnetic Whiteboard 48x36,Office Supplies,East,1,95.0,95.0,57.34,37.66
+ORD-10909,2023-01-17,Amanda Wright,Solid Oak Conference Table,Furniture,North,2,890.0,1780.0,1183.95,596.05
+ORD-10919,2023-01-17,William Torres,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,1,29.99,29.99,15.63,14.36
+ORD-11174,2023-01-20,David Ramirez,Keychron Mechanical Wireless Keyboard,Accessories,Central,1,119.0,119.0,66.91,52.09
+ORD-11039,2023-01-20,Elizabeth White,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,22.5,22.5
+ORD-10212,2023-01-21,Susan Young,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,2,29.99,59.98,27.28,32.7
+ORD-10465,2023-01-21,Kimberly Taylor,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,6,29.99,179.94,78.13,101.81
+ORD-10539,2023-01-23,Steven Lopez,Commercial Heavy-Duty Stapler Set,Office Supplies,North,2,34.9,69.8,37.56,32.24
+ORD-10714,2023-01-23,Edward Robinson,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,386.19,-6.2
+ORD-10768,2023-01-24,Kevin Scott,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,51.8,38.19
+ORD-11205,2023-01-24,Andrew Garcia,Keychron Mechanical Wireless Keyboard,Accessories,East,2,119.0,238.0,149.28,88.72
+ORD-10303,2023-01-24,George Jones,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,3,54.5,163.5,131.43,32.07
+ORD-10092,2023-01-27,Richard Wright,Ergonomic Mesh Office Chair,Furniture,Central,2,289.0,578.0,375.14,202.86
+ORD-11116,2023-01-28,Emily Jackson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,3,29.99,89.97,41.59,48.38
+ORD-10203,2023-01-28,Deborah Scott,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,906.85,292.15
+ORD-11165,2023-01-29,Robert Perez,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,113.16,86.83
+ORD-10463,2023-01-29,Robert Wright,Aluminum Laptop Stand Riser,Accessories,South,3,45.0,135.0,61.7,73.3
+ORD-11151,2023-01-29,Andrew Walker,Magnetic Whiteboard 48x36,Office Supplies,East,1,95.0,95.0,60.13,34.87
+ORD-10030,2023-01-29,Sarah Smith,Motorized Standing Desk 60x30,Furniture,North,4,499.0,1996.0,1301.1,694.9
+ORD-11183,2023-01-30,William Thomas,Logitech MX Master 3S Wireless Mouse,Accessories,South,5,99.99,499.95,286.12,213.83
+ORD-10116,2023-01-30,Jennifer Nguyen,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,627.43,262.57
+ORD-11231,2023-01-31,Linda Jackson,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,260.58,119.41
+ORD-10861,2023-02-01,John Anderson,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,2,129.99,259.98,163.31,96.67
+ORD-10163,2023-02-01,Richard Wright,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,34.74,30.26
+ORD-10624,2023-02-01,Donna Anderson,Dry Erase Marker 24-Color Pack,Office Supplies,East,4,19.99,79.96,32.43,47.53
+ORD-10059,2023-02-01,Charles Garcia,Anker 10-in-1 USB-C Hub,Electronics,West,2,89.99,179.98,96.94,83.04
+ORD-10384,2023-02-01,Robert Perez,Surge Protector 12-Outlet Power Strip,Accessories,South,1,38.0,38.0,18.51,19.49
+ORD-10335,2023-02-02,Richard Wright,Mobile 3-Drawer File Cabinet,Furniture,South,1,145.0,145.0,148.19,-3.19
+ORD-10736,2023-02-02,Sandra Smith,Logitech MX Master 3S Wireless Mouse,Accessories,West,3,99.99,299.97,180.91,119.06
+ORD-10305,2023-02-02,Emily Anderson,Keychron Mechanical Wireless Keyboard,Accessories,East,4,119.0,476.0,487.63,-11.63
+ORD-10789,2023-02-03,William Thomas,Surge Protector 12-Outlet Power Strip,Accessories,Central,6,38.0,228.0,130.88,97.12
+ORD-11022,2023-02-03,Thomas Williams,Magnetic Whiteboard 48x36,Office Supplies,East,4,95.0,380.0,245.54,134.46
+ORD-10479,2023-02-04,Brian Moore,Dell XPS 15 Laptop,Electronics,South,4,1499.99,5999.96,4133.4,1866.56
+ORD-10719,2023-02-04,Matthew Garcia,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,1,54.5,54.5,44.69,9.81
+ORD-10492,2023-02-05,Joshua Jones,Dry Erase Marker 24-Color Pack,Office Supplies,Central,4,19.99,79.96,36.89,43.07
+ORD-10660,2023-02-08,Brian Walker,Mobile 3-Drawer File Cabinet,Furniture,Central,1,145.0,145.0,92.62,52.38
+ORD-11030,2023-02-08,Joseph Rodriguez,Keychron Mechanical Wireless Keyboard,Accessories,West,3,119.0,357.0,238.54,118.46
+ORD-10027,2023-02-09,Robert Allen,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,4,29.99,119.96,55.81,64.15
+ORD-10795,2023-02-10,Linda Jackson,Mobile 3-Drawer File Cabinet,Furniture,East,2,145.0,290.0,164.12,125.88
+ORD-10594,2023-02-10,Jennifer Harris,Solid Oak Conference Table,Furniture,East,2,890.0,1780.0,1308.38,471.62
+ORD-11164,2023-02-11,Joshua Robinson,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,120.98,79.01
+ORD-10792,2023-02-12,Kevin Martin,Fast Wireless Charging Pad 15W,Accessories,West,4,32.5,130.0,68.55,61.45
+ORD-10183,2023-02-12,Betty White,Dry Erase Marker 24-Color Pack,Office Supplies,East,2,19.99,39.98,17.47,22.51
+ORD-10022,2023-02-12,Joshua Hernandez,5-Tier Industrial Bookshelf,Furniture,West,2,185.0,370.0,238.02,131.98
+ORD-10171,2023-02-13,Deborah Nguyen,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1076.34,423.65
+ORD-11047,2023-02-13,Brian Walker,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,1,29.99,29.99,15.52,14.47
+ORD-10307,2023-02-15,Elizabeth Taylor,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,1,54.5,54.5,45.98,8.52
+ORD-10939,2023-02-15,Jennifer Nguyen,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,3,29.99,89.97,41.48,48.49
+ORD-11167,2023-02-15,Deborah Scott,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,3,29.99,89.97,46.61,43.36
+ORD-10488,2023-02-15,Matthew Moore,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,1,54.5,54.5,42.09,12.41
+ORD-10370,2023-02-15,Emily Anderson,Aluminum Laptop Stand Riser,Accessories,North,5,45.0,225.0,116.5,108.5
+ORD-10078,2023-02-16,Margaret Williams,Magnetic Whiteboard 48x36,Office Supplies,South,6,95.0,570.0,351.43,218.57
+ORD-11109,2023-02-16,Mary Scott,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,2,129.99,259.98,171.71,88.27
+ORD-10551,2023-02-16,Mary Moore,Logitech 4K Pro Webcam,Electronics,West,1,199.99,199.99,120.57,79.42
+ORD-10258,2023-02-16,Amanda Wright,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,248.92,151.06
+ORD-10338,2023-02-17,Steven Hill,Keychron Mechanical Wireless Keyboard,Accessories,Central,5,119.0,595.0,373.43,221.57
+ORD-10961,2023-02-18,Nancy Miller,5-Tier Industrial Bookshelf,Furniture,South,4,185.0,740.0,454.53,285.47
+ORD-10588,2023-02-18,Andrew Lee,Mobile 3-Drawer File Cabinet,Furniture,East,2,145.0,290.0,186.24,103.76
+ORD-10689,2023-02-18,Betty Robinson,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,268.9,111.09
+ORD-10208,2023-02-18,John Anderson,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,3,129.99,389.97,233.02,156.95
+ORD-11106,2023-02-18,Sarah Perez,Samsung 34-Inch Curved Monitor,Electronics,Central,1,549.5,549.5,385.35,164.15
+ORD-11153,2023-02-18,Susan Wright,Logitech MX Master 3S Wireless Mouse,Accessories,Central,2,99.99,199.98,206.73,-6.75
+ORD-11096,2023-02-19,Mary Nguyen,Logitech MX Master 3S Wireless Mouse,Accessories,South,4,99.99,399.96,251.68,148.28
+ORD-10502,2023-02-20,Joshua Ramirez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,5,29.99,149.95,61.84,88.11
+ORD-10758,2023-02-21,Karen Thomas,Fast Wireless Charging Pad 15W,Accessories,Central,8,32.5,260.0,148.29,111.71
+ORD-10804,2023-02-22,Deborah Scott,Executive High-Back Leather Chair,Furniture,South,2,349.0,698.0,456.18,241.82
+ORD-10080,2023-02-22,Joseph Miller,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,1,29.99,29.99,14.07,15.92
+ORD-10928,2023-02-23,Emily Smith,HP LaserJet Pro Multifunction Printer,Electronics,North,1,329.0,329.0,237.47,91.53
+ORD-10404,2023-02-23,Betty Robinson,Logitech MX Master 3S Wireless Mouse,Accessories,South,3,99.99,299.97,170.41,129.56
+ORD-10187,2023-02-23,Robert Perez,Logitech MX Master 3S Wireless Mouse,Accessories,East,1,99.99,99.99,55.13,44.86
+ORD-10527,2023-02-24,Jessica Moore,Logitech MX Master 3S Wireless Mouse,Accessories,East,6,99.99,599.94,329.09,270.85
+ORD-10860,2023-02-24,Kevin Davis,Aluminum Laptop Stand Riser,Accessories,East,8,45.0,360.0,163.14,196.86
+ORD-10841,2023-02-25,Richard Wright,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,4,129.99,519.96,362.39,157.57
+ORD-10002,2023-02-25,Karen Thomas,Logitech MX Master 3S Wireless Mouse,Accessories,Central,1,99.99,99.99,58.83,41.16
+ORD-10797,2023-02-25,Andrew Garcia,Commercial Heavy-Duty Stapler Set,Office Supplies,Central,2,34.9,69.8,37.52,32.28
+ORD-10589,2023-02-25,Mary Moore,Fast Wireless Charging Pad 15W,Accessories,South,3,32.5,97.5,55.94,41.56
+ORD-10239,2023-02-26,Melissa Brown,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,239.18,140.81
+ORD-11216,2023-02-27,Linda Jackson,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,865.08,333.92
+ORD-10825,2023-02-27,Melissa Brown,Commercial Heavy-Duty Stapler Set,Office Supplies,South,4,34.9,139.6,69.5,70.1
+ORD-11025,2023-02-27,Betty Robinson,Motorized Standing Desk 60x30,Furniture,East,4,499.0,1996.0,1385.29,610.71
+ORD-10461,2023-02-27,Edward Gonzalez,Ergonomic Mesh Office Chair,Furniture,East,4,289.0,1156.0,724.36,431.64
+ORD-10314,2023-03-01,Linda Jackson,Heavy-Duty Cross-Cut Shredder,Office Supplies,Central,3,129.99,389.97,236.36,153.61
+ORD-10391,2023-03-02,Margaret Hernandez,5-Tier Industrial Bookshelf,Furniture,East,1,185.0,185.0,103.64,81.36
+ORD-10327,2023-03-02,Kimberly Taylor,Apple MacBook Air M2,Electronics,West,1,1199.0,1199.0,968.98,230.02
+ORD-10084,2023-03-03,Kevin Allen,Fast Wireless Charging Pad 15W,Accessories,North,4,32.5,130.0,72.16,57.84
+ORD-11188,2023-03-03,Linda Martinez,Motorized Standing Desk 60x30,Furniture,East,2,499.0,998.0,664.29,333.71
+ORD-10184,2023-03-05,Betty White,Sony WH-1000XM5 Headphones,Electronics,West,2,379.99,759.98,553.18,206.8
+ORD-10630,2023-03-06,Matthew Moore,5-Tier Industrial Bookshelf,Furniture,South,2,185.0,370.0,222.79,147.21
+ORD-10733,2023-03-06,Ashley Johnson,Magnetic Whiteboard 48x36,Office Supplies,West,1,95.0,95.0,59.09,35.91
+ORD-10608,2023-03-06,Susan Wright,Fast Wireless Charging Pad 15W,Accessories,East,4,32.5,130.0,63.53,66.47
+ORD-10536,2023-03-08,James Jones,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,956.01,242.99
+ORD-11241,2023-03-08,Daniel Hill,Commercial Heavy-Duty Stapler Set,Office Supplies,South,5,34.9,174.5,96.0,78.5
+ORD-10422,2023-03-09,Joshua Hernandez,Aluminum Laptop Stand Riser,Accessories,East,8,45.0,360.0,168.71,191.29
+ORD-11000,2023-03-09,George Jones,Keychron Mechanical Wireless Keyboard,Accessories,North,1,119.0,119.0,68.41,50.59
+ORD-10735,2023-03-10,Jennifer Nguyen,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,114.56,85.43
+ORD-10984,2023-03-10,Steven Miller,Fast Wireless Charging Pad 15W,Accessories,South,2,32.5,65.0,34.6,30.4
+ORD-10226,2023-03-10,John Anderson,Surge Protector 12-Outlet Power Strip,Accessories,East,2,38.0,76.0,43.62,32.38
+ORD-10889,2023-03-11,Mary Moore,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,1,129.99,129.99,83.65,46.34
+ORD-10821,2023-03-11,Joshua Hernandez,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,209.66,139.34
+ORD-11226,2023-03-12,Joseph Lee,Anker 10-in-1 USB-C Hub,Electronics,West,2,89.99,179.98,113.0,66.98
+ORD-10015,2023-03-12,William Torres,Ergonomic Mesh Office Chair,Furniture,South,1,289.0,289.0,196.53,92.47
+ORD-10299,2023-03-12,Jennifer Brown,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,870.78,328.22
+ORD-10618,2023-03-13,Paul Davis,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,657.83,232.17
+ORD-11010,2023-03-13,Jessica Walker,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,2,29.99,59.98,24.68,35.3
+ORD-11190,2023-03-13,George Jones,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,360.89,188.61
+ORD-10740,2023-03-14,Melissa Brown,Executive High-Back Leather Chair,Furniture,North,1,349.0,349.0,231.16,117.84
+ORD-10087,2023-03-14,Patricia Thomas,Ergonomic Mesh Office Chair,Furniture,Central,2,289.0,578.0,378.59,199.41
+ORD-10089,2023-03-15,Mary Garcia,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,249.68,79.32
+ORD-10864,2023-03-15,Kimberly Smith,Dell XPS 15 Laptop,Electronics,North,3,1499.99,4499.97,3415.26,1084.71
+ORD-10246,2023-03-16,Andrew Garcia,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,918.11,280.89
+ORD-10895,2023-03-17,David White,Surge Protector 12-Outlet Power Strip,Accessories,North,2,38.0,76.0,44.04,31.96
+ORD-11210,2023-03-18,Charles Garcia,Anker 10-in-1 USB-C Hub,Electronics,North,1,89.99,89.99,52.65,37.34
+ORD-10396,2023-03-19,David Wright,Surge Protector 12-Outlet Power Strip,Accessories,North,3,38.0,114.0,56.25,57.75
+ORD-11034,2023-03-19,Joseph Jones,Magnetic Whiteboard 48x36,Office Supplies,North,2,95.0,190.0,109.38,80.62
+ORD-10340,2023-03-20,George Jones,HP LaserJet Pro Multifunction Printer,Electronics,East,1,329.0,329.0,250.68,78.32
+ORD-10432,2023-03-21,Sandra Smith,5-Tier Industrial Bookshelf,Furniture,North,2,185.0,370.0,202.14,167.86
+ORD-11196,2023-03-21,Emily Smith,Dell XPS 15 Laptop,Electronics,West,2,1499.99,2999.98,2200.25,799.73
+ORD-10677,2023-03-22,Karen Thomas,Keychron Mechanical Wireless Keyboard,Accessories,East,1,119.0,119.0,78.88,40.12
+ORD-10222,2023-03-23,David Robinson,Keychron Mechanical Wireless Keyboard,Accessories,South,2,119.0,238.0,153.78,84.22
+ORD-11158,2023-03-25,Richard Wright,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,882.19,316.81
+ORD-10189,2023-03-25,Edward Taylor,Keychron Mechanical Wireless Keyboard,Accessories,North,2,119.0,238.0,160.92,77.08
+ORD-10085,2023-03-25,Michael Thompson,Ergonomic Mesh Office Chair,Furniture,North,1,289.0,289.0,167.71,121.29
+ORD-11246,2023-03-28,Brian Moore,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,1,54.5,54.5,40.6,13.9
+ORD-10350,2023-03-28,Brian Walker,Magnetic Whiteboard 48x36,Office Supplies,Central,8,95.0,760.0,462.56,297.44
+ORD-11029,2023-03-28,Andrew Garcia,Samsung 34-Inch Curved Monitor,Electronics,West,1,549.5,549.5,362.88,186.62
+ORD-10378,2023-03-28,Karen Thomas,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,114.8,85.19
+ORD-10368,2023-03-29,Sarah Smith,Fast Wireless Charging Pad 15W,Accessories,North,2,32.5,65.0,34.75,30.25
+ORD-10071,2023-03-29,John Anderson,Fast Wireless Charging Pad 15W,Accessories,East,3,32.5,97.5,49.61,47.89
+ORD-10411,2023-03-30,Jessica Walker,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,265.08,114.91
+ORD-10286,2023-03-30,Elizabeth Taylor,Keychron Mechanical Wireless Keyboard,Accessories,North,10,119.0,1190.0,734.58,455.42
+ORD-10664,2023-03-30,David White,Surge Protector 12-Outlet Power Strip,Accessories,South,3,38.0,114.0,57.99,56.01
+ORD-10348,2023-03-31,Edward Robinson,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,3,129.99,389.97,403.53,-13.56
+ORD-10810,2023-03-31,Margaret Williams,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,262.44,117.55
+ORD-10871,2023-04-01,Charles Garcia,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,3,29.99,89.97,44.11,45.86
+ORD-10097,2023-04-01,Paul Thomas,Motorized Standing Desk 60x30,Furniture,South,4,499.0,1996.0,1334.33,661.67
+ORD-11098,2023-04-02,Jessica Anderson,Anker 10-in-1 USB-C Hub,Electronics,North,2,89.99,179.98,97.94,82.04
+ORD-10279,2023-04-02,Joshua Lee,Dry Erase Marker 24-Color Pack,Office Supplies,South,4,19.99,79.96,38.54,41.42
+ORD-10512,2023-04-03,Daniel Wilson,Dell XPS 15 Laptop,Electronics,South,1,1499.99,1499.99,1123.0,376.99
+ORD-10182,2023-04-03,Kevin Allen,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,2,24.5,49.0,20.9,28.1
+ORD-10759,2023-04-03,Lisa Torres,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,2,129.99,259.98,157.51,102.47
+ORD-11051,2023-04-03,John Anderson,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,4,24.5,98.0,39.15,58.85
+ORD-11049,2023-04-03,Betty Robinson,Fast Wireless Charging Pad 15W,Accessories,West,1,32.5,32.5,17.83,14.67
+ORD-10141,2023-04-04,Ashley Johnson,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,46.13,43.86
+ORD-10447,2023-04-04,William Rodriguez,Ergonomic Mesh Office Chair,Furniture,Central,1,289.0,289.0,169.32,119.68
+ORD-10487,2023-04-04,Kimberly Smith,Magnetic Whiteboard 48x36,Office Supplies,South,2,95.0,190.0,111.3,78.7
+ORD-10752,2023-04-05,Sandra Smith,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,82.54,62.46
+ORD-10831,2023-04-05,Margaret Nguyen,Commercial Heavy-Duty Stapler Set,Office Supplies,North,2,34.9,69.8,36.3,33.5
+ORD-10844,2023-04-06,Donna Anderson,Aluminum Laptop Stand Riser,Accessories,East,2,45.0,90.0,46.99,43.01
+ORD-10349,2023-04-06,Steven Miller,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,5,24.5,122.5,44.28,78.22
+ORD-10673,2023-04-06,Elizabeth Taylor,Keychron Mechanical Wireless Keyboard,Accessories,West,2,119.0,238.0,149.12,88.88
+ORD-10393,2023-04-08,Elizabeth Wilson,Surge Protector 12-Outlet Power Strip,Accessories,West,6,38.0,228.0,132.03,95.97
+ORD-10924,2023-04-08,Joshua Gonzalez,5-Tier Industrial Bookshelf,Furniture,West,4,185.0,740.0,444.67,295.33
+ORD-11250,2023-04-11,David Ramirez,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,373.69,175.81
+ORD-11032,2023-04-11,Emily Anderson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,3,29.99,89.97,40.51,49.46
+ORD-11137,2023-04-12,Jennifer Harris,Logitech MX Master 3S Wireless Mouse,Accessories,South,4,99.99,399.96,221.88,178.08
+ORD-10686,2023-04-13,Brian Walker,Motorized Standing Desk 60x30,Furniture,West,1,499.0,499.0,360.66,138.34
+ORD-11234,2023-04-14,Jessica Anderson,Keychron Mechanical Wireless Keyboard,Accessories,North,3,119.0,357.0,237.83,119.17
+ORD-10499,2023-04-14,Mark Davis,Executive High-Back Leather Chair,Furniture,West,3,349.0,1047.0,738.5,308.5
+ORD-10194,2023-04-14,Joshua Jones,Surge Protector 12-Outlet Power Strip,Accessories,East,4,38.0,152.0,79.52,72.48
+ORD-10306,2023-04-14,Steven Miller,Apple MacBook Air M2,Electronics,East,2,1199.0,2398.0,1953.57,444.43
+ORD-10992,2023-04-15,Kevin Flores,Logitech 4K Pro Webcam,Electronics,East,2,199.99,399.98,262.15,137.83
+ORD-10449,2023-04-15,Mary Nguyen,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,130.74,69.25
+ORD-10079,2023-04-16,Brian Young,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1099.28,400.71
+ORD-10017,2023-04-17,William Torres,Logitech 4K Pro Webcam,Electronics,South,3,199.99,599.97,389.43,210.54
+ORD-11228,2023-04-18,Joseph Rodriguez,Apple MacBook Air M2,Electronics,East,3,1199.0,3597.0,2829.59,767.41
+ORD-10544,2023-04-18,Matthew Harris,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,37.32,27.68
+ORD-10914,2023-04-19,Sarah Smith,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,3,29.99,89.97,37.57,52.4
+ORD-10609,2023-04-19,Brian Moore,Keychron Mechanical Wireless Keyboard,Accessories,South,1,119.0,119.0,77.57,41.43
+ORD-10347,2023-04-20,Richard Wright,Dell XPS 15 Laptop,Electronics,Central,1,1499.99,1499.99,1157.03,342.96
+ORD-10849,2023-04-20,David Robinson,Magnetic Whiteboard 48x36,Office Supplies,East,4,95.0,380.0,229.49,150.51
+ORD-10122,2023-04-20,John Anderson,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,98.47,46.53
+ORD-11006,2023-04-20,Edward Robinson,5-Tier Industrial Bookshelf,Furniture,Central,1,185.0,185.0,111.32,73.68
+ORD-10043,2023-04-20,Mark King,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,4,129.99,519.96,350.2,169.76
+ORD-10906,2023-04-20,Elizabeth White,Aluminum Laptop Stand Riser,Accessories,South,1,45.0,45.0,23.22,21.78
+ORD-10332,2023-04-20,Anthony Anderson,Commercial Heavy-Duty Stapler Set,Office Supplies,North,1,34.9,34.9,18.26,16.64
+ORD-11212,2023-04-21,Jennifer Brown,Ergonomic Mesh Office Chair,Furniture,Central,2,289.0,578.0,392.23,185.77
+ORD-10999,2023-04-21,Amanda Wright,Keychron Mechanical Wireless Keyboard,Accessories,East,1,119.0,119.0,68.34,50.66
+ORD-10003,2023-04-22,Charles Garcia,Anker 10-in-1 USB-C Hub,Electronics,North,1,89.99,89.99,50.45,39.54
+ORD-10265,2023-04-23,Paul Davis,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1094.33,405.66
+ORD-10934,2023-04-24,Robert Allen,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,1,54.5,54.5,42.58,11.92
+ORD-10467,2023-04-24,John Perez,Commercial Heavy-Duty Stapler Set,Office Supplies,West,8,34.9,279.2,140.95,138.25
+ORD-10294,2023-04-25,Mary Garcia,Magnetic Whiteboard 48x36,Office Supplies,Central,1,95.0,95.0,57.42,37.58
+ORD-10969,2023-04-26,Emily Hernandez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,1,29.99,29.99,14.28,15.71
+ORD-10102,2023-04-27,Steven Young,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,274.32,105.67
+ORD-10146,2023-04-27,Joshua Ramirez,Samsung 34-Inch Curved Monitor,Electronics,East,2,549.5,1099.0,771.05,327.95
+ORD-10060,2023-04-28,Margaret Hernandez,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,49.88,40.11
+ORD-10615,2023-04-28,Edward Robinson,Keychron Mechanical Wireless Keyboard,Accessories,West,5,119.0,595.0,393.99,201.01
+ORD-10061,2023-04-28,Mark King,HP LaserJet Pro Multifunction Printer,Electronics,Central,1,329.0,329.0,218.15,110.85
+ORD-10834,2023-04-29,Kevin Davis,Executive High-Back Leather Chair,Furniture,Central,2,349.0,698.0,468.58,229.42
+ORD-10136,2023-04-29,Anthony Anderson,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,183.35,105.65
+ORD-10819,2023-05-01,Thomas King,Anker 10-in-1 USB-C Hub,Electronics,West,4,89.99,359.96,201.46,158.5
+ORD-10426,2023-05-01,Melissa Martin,Dell XPS 15 Laptop,Electronics,South,1,1499.99,1499.99,1114.29,385.7
+ORD-10389,2023-05-01,Mark King,Ergonomic Mesh Office Chair,Furniture,North,2,289.0,578.0,383.04,194.96
+ORD-10805,2023-05-01,Nancy Moore,Anker 10-in-1 USB-C Hub,Electronics,North,2,89.99,179.98,92.05,87.93
+ORD-10082,2023-05-02,Linda Jackson,Surge Protector 12-Outlet Power Strip,Accessories,East,3,38.0,114.0,60.9,53.1
+ORD-10302,2023-05-02,Thomas Williams,Magnetic Whiteboard 48x36,Office Supplies,South,1,95.0,95.0,62.46,32.54
+ORD-10493,2023-05-04,Susan Wright,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,10,54.5,545.0,466.88,78.12
+ORD-11181,2023-05-04,Margaret Williams,Anker 10-in-1 USB-C Hub,Electronics,South,1,89.99,89.99,48.45,41.54
+ORD-11050,2023-05-04,Joshua Robinson,Keychron Mechanical Wireless Keyboard,Accessories,West,6,119.0,714.0,479.66,234.34
+ORD-10234,2023-05-05,Matthew Garcia,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,120.66,79.33
+ORD-10952,2023-05-06,Jennifer Brown,Aluminum Laptop Stand Riser,Accessories,East,5,45.0,225.0,123.29,101.71
+ORD-10801,2023-05-07,Richard Wright,Sony WH-1000XM5 Headphones,Electronics,West,2,379.99,759.98,471.37,288.61
+ORD-11214,2023-05-08,Mary Scott,Apple MacBook Air M2,Electronics,Central,1,1199.0,1199.0,979.36,219.64
+ORD-11115,2023-05-09,Elizabeth Wilson,Dell XPS 15 Laptop,Electronics,North,2,1499.99,2999.98,2290.56,709.42
+ORD-10698,2023-05-09,Emily Hernandez,Ergonomic Mesh Office Chair,Furniture,West,3,289.0,867.0,575.76,291.24
+ORD-10110,2023-05-10,Joshua Jones,Dry Erase Marker 24-Color Pack,Office Supplies,South,1,19.99,19.99,9.62,10.37
+ORD-10394,2023-05-10,Jennifer Young,Logitech 4K Pro Webcam,Electronics,South,2,199.99,399.98,263.75,136.23
+ORD-10494,2023-05-10,Jennifer Nguyen,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,3,129.99,389.97,239.53,150.44
+ORD-11215,2023-05-11,Mary Garcia,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,3,54.5,163.5,129.46,34.04
+ORD-10576,2023-05-12,Mark Nguyen,Mobile 3-Drawer File Cabinet,Furniture,East,2,145.0,290.0,173.6,116.4
+ORD-10452,2023-05-12,Richard Wright,Solid Oak Conference Table,Furniture,North,3,890.0,2670.0,1778.42,891.58
+ORD-10817,2023-05-13,Kevin Allen,Dry Erase Marker 24-Color Pack,Office Supplies,East,4,19.99,79.96,35.16,44.8
+ORD-10400,2023-05-14,Margaret Hernandez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,5,29.99,149.95,75.2,74.75
+ORD-10593,2023-05-14,Michael Thompson,Dry Erase Marker 24-Color Pack,Office Supplies,West,1,19.99,19.99,8.71,11.28
+ORD-10407,2023-05-16,Linda Martinez,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,404.82,144.68
+ORD-10291,2023-05-17,Linda Martinez,Logitech 4K Pro Webcam,Electronics,East,4,199.99,799.96,483.84,316.12
+ORD-10574,2023-05-18,Amanda Ramirez,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1188.35,311.64
+ORD-11017,2023-05-18,William Miller,Sony WH-1000XM5 Headphones,Electronics,West,2,379.99,759.98,777.11,-17.13
+ORD-10782,2023-05-19,Deborah Nguyen,Surge Protector 12-Outlet Power Strip,Accessories,North,6,38.0,228.0,129.97,98.03
+ORD-11065,2023-05-20,Kevin Davis,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,91.22,53.78
+ORD-10865,2023-05-20,Mary Scott,Logitech 4K Pro Webcam,Electronics,East,1,199.99,199.99,122.94,77.05
+ORD-10529,2023-05-21,Matthew Garcia,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,684.23,205.77
+ORD-10991,2023-05-21,Joshua Robinson,Executive High-Back Leather Chair,Furniture,South,1,349.0,349.0,223.65,125.35
+ORD-10205,2023-05-21,Amanda Wright,Executive High-Back Leather Chair,Furniture,Central,1,349.0,349.0,244.21,104.79
+ORD-10916,2023-05-21,David Robinson,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,49.52,40.47
+ORD-10267,2023-05-22,Joshua Robinson,Anker 10-in-1 USB-C Hub,Electronics,East,4,89.99,359.96,204.24,155.72
+ORD-10907,2023-05-24,Amanda Wright,Anker 10-in-1 USB-C Hub,Electronics,North,4,89.99,359.96,193.88,166.08
+ORD-10326,2023-05-24,Brian Walker,Magnetic Whiteboard 48x36,Office Supplies,East,6,95.0,570.0,344.88,225.12
+ORD-10917,2023-05-25,Susan Wright,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,2,129.99,259.98,158.54,101.44
+ORD-10379,2023-05-25,Matthew Harris,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,87.88,57.12
+ORD-10249,2023-05-25,Anthony Anderson,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,939.83,259.17
+ORD-10439,2023-05-26,William Rodriguez,Motorized Standing Desk 60x30,Furniture,North,3,499.0,1497.0,1089.33,407.67
+ORD-10247,2023-05-28,Paul Thomas,Aluminum Laptop Stand Riser,Accessories,South,10,45.0,450.0,216.65,233.35
+ORD-10880,2023-05-29,Steven Miller,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,243.81,156.17
+ORD-10659,2023-05-29,Jennifer Brown,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,1,24.5,24.5,9.47,15.03
+ORD-11055,2023-05-29,Betty Moore,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,5,29.99,149.95,61.86,88.09
+ORD-10966,2023-05-29,Joseph Rodriguez,Solid Oak Conference Table,Furniture,North,4,890.0,3560.0,2582.91,977.09
+ORD-10144,2023-05-29,Nancy Moore,Magnetic Whiteboard 48x36,Office Supplies,South,1,95.0,95.0,96.05,-1.05
+ORD-10585,2023-05-30,Joseph Jones,Apple MacBook Air M2,Electronics,West,1,1199.0,1199.0,959.72,239.28
+ORD-10629,2023-05-30,Thomas King,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,32.91,32.09
+ORD-10273,2023-05-30,Brian Moore,Apple MacBook Air M2,Electronics,South,2,1199.0,2398.0,1802.25,595.75
+ORD-10495,2023-06-01,Melissa Brown,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,6,24.5,147.0,69.05,77.95
+ORD-11089,2023-06-01,David Ramirez,5-Tier Industrial Bookshelf,Furniture,North,3,185.0,555.0,311.73,243.27
+ORD-10498,2023-06-01,Margaret Hernandez,Dry Erase Marker 24-Color Pack,Office Supplies,East,8,19.99,159.92,62.69,97.23
+ORD-11105,2023-06-02,Nancy Moore,Keychron Mechanical Wireless Keyboard,Accessories,Central,5,119.0,595.0,370.55,224.45
+ORD-10548,2023-06-02,Richard Wright,Surge Protector 12-Outlet Power Strip,Accessories,East,4,38.0,152.0,71.77,80.23
+ORD-10827,2023-06-02,David White,Dell XPS 15 Laptop,Electronics,South,1,1499.99,1499.99,1116.16,383.83
+ORD-10687,2023-06-03,Jennifer Brown,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1199.19,300.8
+ORD-11133,2023-06-04,Robert Allen,Aluminum Laptop Stand Riser,Accessories,West,3,45.0,135.0,61.09,73.91
+ORD-11086,2023-06-04,Linda Jackson,Keychron Mechanical Wireless Keyboard,Accessories,East,2,119.0,238.0,138.68,99.32
+ORD-11140,2023-06-05,Susan Wright,Surge Protector 12-Outlet Power Strip,Accessories,East,4,38.0,152.0,72.44,79.56
+ORD-11118,2023-06-06,Thomas King,Aluminum Laptop Stand Riser,Accessories,East,2,45.0,90.0,39.81,50.19
+ORD-10619,2023-06-06,Margaret Hernandez,Dry Erase Marker 24-Color Pack,Office Supplies,South,2,19.99,39.98,41.07,-1.09
+ORD-10605,2023-06-07,William Miller,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,1,54.5,54.5,40.81,13.69
+ORD-10734,2023-06-07,Kevin Allen,Executive High-Back Leather Chair,Furniture,South,2,349.0,698.0,428.05,269.95
+ORD-10227,2023-06-07,Karen Thomas,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,2,54.5,109.0,90.64,18.36
+ORD-10963,2023-06-07,Michael Thompson,Ergonomic Mesh Office Chair,Furniture,North,4,289.0,1156.0,750.18,405.82
+ORD-10653,2023-06-08,Paul Taylor,Logitech MX Master 3S Wireless Mouse,Accessories,East,2,99.99,199.98,120.85,79.13
+ORD-10421,2023-06-09,Emily Smith,Solid Oak Conference Table,Furniture,South,2,890.0,1780.0,1353.05,426.95
+ORD-10751,2023-06-09,Elizabeth Wilson,Motorized Standing Desk 60x30,Furniture,South,1,499.0,499.0,323.33,175.67
+ORD-10233,2023-06-11,William Rodriguez,Aluminum Laptop Stand Riser,Accessories,Central,3,45.0,135.0,72.26,62.74
+ORD-10165,2023-06-11,Susan Wright,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,1,24.5,24.5,10.12,14.38
+ORD-10532,2023-06-12,Kevin Hernandez,Surge Protector 12-Outlet Power Strip,Accessories,West,1,38.0,38.0,19.46,18.54
+ORD-10186,2023-06-12,Betty Moore,5-Tier Industrial Bookshelf,Furniture,Central,1,185.0,185.0,117.09,67.91
+ORD-10250,2023-06-13,Donna Anderson,Solid Oak Conference Table,Furniture,Central,2,890.0,1780.0,1215.35,564.65
+ORD-11060,2023-06-14,Margaret Nguyen,Logitech MX Master 3S Wireless Mouse,Accessories,South,4,99.99,399.96,246.91,153.05
+ORD-10638,2023-06-15,Kimberly Smith,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,1,129.99,129.99,85.64,44.35
+ORD-10955,2023-06-18,David White,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,271.69,108.3
+ORD-10371,2023-06-18,Thomas King,Ergonomic Mesh Office Chair,Furniture,East,1,289.0,289.0,179.1,109.9
+ORD-10562,2023-06-19,Steven Hill,Surge Protector 12-Outlet Power Strip,Accessories,East,1,38.0,38.0,21.9,16.1
+ORD-10196,2023-06-19,Brian Walker,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,2,54.5,109.0,90.07,18.93
+ORD-10477,2023-06-20,Andrew Walker,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,2,129.99,259.98,170.42,89.56
+ORD-10364,2023-06-20,Kimberly Smith,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,10,24.5,245.0,108.12,136.88
+ORD-10699,2023-06-20,Betty Robinson,Sony WH-1000XM5 Headphones,Electronics,North,3,379.99,1139.97,760.11,379.86
+ORD-10554,2023-06-20,Sarah Smith,Logitech 4K Pro Webcam,Electronics,West,1,199.99,199.99,134.61,65.38
+ORD-10428,2023-06-20,Robert Wilson,HP LaserJet Pro Multifunction Printer,Electronics,South,1,329.0,329.0,239.8,89.2
+ORD-10989,2023-06-21,Amanda Davis,Solid Oak Conference Table,Furniture,West,2,890.0,1780.0,1321.11,458.89
+ORD-11186,2023-06-22,Mark Davis,Ergonomic Mesh Office Chair,Furniture,East,1,289.0,289.0,199.23,89.77
+ORD-11178,2023-06-22,Daniel Wilson,Logitech 4K Pro Webcam,Electronics,North,2,199.99,399.98,231.39,168.59
+ORD-10175,2023-06-22,Steven Hill,Commercial Heavy-Duty Stapler Set,Office Supplies,East,3,34.9,104.7,50.6,54.1
+ORD-11082,2023-06-23,Joshua Jones,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,5,29.99,149.95,63.85,86.1
+ORD-10039,2023-06-23,Ashley Johnson,Samsung 34-Inch Curved Monitor,Electronics,South,2,549.5,1099.0,785.03,313.97
+ORD-10702,2023-06-24,William Miller,Apple MacBook Air M2,Electronics,West,3,1199.0,3597.0,2694.24,902.76
+ORD-11139,2023-06-25,Mary Scott,Motorized Standing Desk 60x30,Furniture,South,2,499.0,998.0,661.95,336.05
+ORD-10462,2023-06-27,Thomas Williams,Ergonomic Mesh Office Chair,Furniture,East,2,289.0,578.0,383.63,194.37
+ORD-10268,2023-06-27,Joseph Rodriguez,Magnetic Whiteboard 48x36,Office Supplies,South,2,95.0,190.0,120.2,69.8
+ORD-10508,2023-06-27,Paul Davis,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,50.82,39.17
+ORD-10448,2023-06-28,William Miller,Mobile 3-Drawer File Cabinet,Furniture,West,1,145.0,145.0,90.77,54.23
+ORD-11233,2023-06-28,Joseph Lee,Magnetic Whiteboard 48x36,Office Supplies,South,1,95.0,95.0,53.31,41.69
+ORD-10424,2023-06-29,David Ramirez,Dell XPS 15 Laptop,Electronics,West,2,1499.99,2999.98,2098.97,901.01
+ORD-10280,2023-06-29,Deborah Scott,HP LaserJet Pro Multifunction Printer,Electronics,Central,1,329.0,329.0,250.15,78.85
+ORD-10948,2023-06-29,Kimberly Smith,Magnetic Whiteboard 48x36,Office Supplies,West,3,95.0,285.0,180.36,104.64
+ORD-10622,2023-06-29,Kimberly Smith,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,2,24.5,49.0,22.5,26.5
+ORD-10905,2023-06-30,Sarah Perez,Apple MacBook Air M2,Electronics,Central,2,1199.0,2398.0,1788.58,609.42
+ORD-10025,2023-07-01,William Torres,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,4,129.99,519.96,327.5,192.46
+ORD-10466,2023-07-01,Mary Nguyen,Solid Oak Conference Table,Furniture,North,1,890.0,890.0,662.66,227.34
+ORD-10581,2023-07-02,Joshua Jones,Magnetic Whiteboard 48x36,Office Supplies,West,2,95.0,190.0,105.23,84.77
+ORD-10655,2023-07-03,Robert Wilson,Magnetic Whiteboard 48x36,Office Supplies,East,2,95.0,190.0,109.59,80.41
+ORD-10742,2023-07-03,Linda Jackson,Fast Wireless Charging Pad 15W,Accessories,East,4,32.5,130.0,74.35,55.65
+ORD-10162,2023-07-05,Brian Young,Logitech 4K Pro Webcam,Electronics,East,1,199.99,199.99,115.4,84.59
+ORD-10056,2023-07-06,Margaret Williams,Motorized Standing Desk 60x30,Furniture,South,1,499.0,499.0,328.95,170.05
+ORD-11087,2023-07-07,Amanda Wright,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,4,29.99,119.96,55.47,64.49
+ORD-10525,2023-07-07,Patricia Thomas,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,611.25,278.75
+ORD-10596,2023-07-08,Joshua Robinson,Samsung 34-Inch Curved Monitor,Electronics,West,1,549.5,549.5,387.49,162.01
+ORD-10732,2023-07-09,Andrew Walker,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1131.63,368.36
+ORD-10774,2023-07-10,Matthew Garcia,Commercial Heavy-Duty Stapler Set,Office Supplies,Central,3,34.9,104.7,57.11,47.59
+ORD-10281,2023-07-10,Joshua Ramirez,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,233.19,115.81
+ORD-10592,2023-07-11,Thomas Williams,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,34.54,30.46
+ORD-10375,2023-07-11,Betty Moore,Solid Oak Conference Table,Furniture,North,1,890.0,890.0,659.03,230.97
+ORD-10538,2023-07-12,Daniel Hill,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,98.34,46.66
+ORD-10675,2023-07-14,Amanda Ramirez,Fast Wireless Charging Pad 15W,Accessories,North,4,32.5,130.0,76.01,53.99
+ORD-10522,2023-07-14,Joseph Lee,Fast Wireless Charging Pad 15W,Accessories,West,3,32.5,97.5,54.27,43.23
+ORD-11237,2023-07-14,Paul Davis,Magnetic Whiteboard 48x36,Office Supplies,South,2,95.0,190.0,116.27,73.73
+ORD-10218,2023-07-15,Daniel Wilson,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,114.46,70.54
+ORD-10316,2023-07-15,Margaret Williams,Motorized Standing Desk 60x30,Furniture,South,2,499.0,998.0,623.5,374.5
+ORD-11004,2023-07-16,Daniel Wilson,HP LaserJet Pro Multifunction Printer,Electronics,Central,1,329.0,329.0,255.58,73.42
+ORD-10075,2023-07-17,Paul Thomas,Sony WH-1000XM5 Headphones,Electronics,West,4,379.99,1519.96,1053.06,466.9
+ORD-10285,2023-07-17,Thomas Williams,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,5,24.5,122.5,56.26,66.24
+ORD-10077,2023-07-18,Brian Moore,Ergonomic Mesh Office Chair,Furniture,South,1,289.0,289.0,192.17,96.83
+ORD-10888,2023-07-19,Joshua Robinson,Solid Oak Conference Table,Furniture,West,4,890.0,3560.0,3597.71,-37.71
+ORD-10255,2023-07-19,Betty Moore,Magnetic Whiteboard 48x36,Office Supplies,South,2,95.0,190.0,112.87,77.13
+ORD-10762,2023-07-20,Linda Jackson,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,Central,3,24.5,73.5,28.6,44.9
+ORD-10591,2023-07-21,Mark King,Fast Wireless Charging Pad 15W,Accessories,Central,2,32.5,65.0,32.58,32.42
+ORD-10623,2023-07-21,Matthew Moore,Fast Wireless Charging Pad 15W,Accessories,West,1,32.5,32.5,33.98,-1.48
+ORD-10450,2023-07-22,James Jones,Mobile 3-Drawer File Cabinet,Furniture,South,2,145.0,290.0,184.84,105.16
+ORD-10088,2023-07-22,Paul Taylor,Sony WH-1000XM5 Headphones,Electronics,East,2,379.99,759.98,546.43,213.55
+ORD-10931,2023-07-24,Andrew Lee,Ergonomic Mesh Office Chair,Furniture,North,1,289.0,289.0,169.5,119.5
+ORD-10676,2023-07-27,Melissa Brown,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,194.63,94.37
+ORD-10322,2023-07-28,Robert Wilson,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,611.03,278.97
+ORD-10315,2023-07-28,Kevin Scott,Logitech MX Master 3S Wireless Mouse,Accessories,North,2,99.99,199.98,116.89,83.09
+ORD-11136,2023-07-30,Betty Moore,HP LaserJet Pro Multifunction Printer,Electronics,West,2,329.0,658.0,494.44,163.56
+ORD-10414,2023-07-30,Joshua Robinson,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,4,24.5,98.0,38.76,59.24
+ORD-10921,2023-07-31,Nancy Miller,Logitech MX Master 3S Wireless Mouse,Accessories,South,2,99.99,199.98,113.73,86.25
+ORD-10946,2023-08-01,Mark Davis,Keychron Mechanical Wireless Keyboard,Accessories,North,5,119.0,595.0,385.73,209.27
+ORD-11244,2023-08-01,Lisa Torres,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,48.26,41.73
+ORD-11128,2023-08-01,Daniel Wilson,Aluminum Laptop Stand Riser,Accessories,West,3,45.0,135.0,61.49,73.51
+ORD-10851,2023-08-02,Donna Anderson,Aluminum Laptop Stand Riser,Accessories,East,4,45.0,180.0,88.6,91.4
+ORD-10826,2023-08-02,Sandra Smith,Keychron Mechanical Wireless Keyboard,Accessories,South,6,119.0,714.0,468.02,245.98
+ORD-10927,2023-08-03,Deborah Nguyen,Motorized Standing Desk 60x30,Furniture,South,2,499.0,998.0,709.59,288.41
+ORD-10244,2023-08-04,Melissa Martin,Dry Erase Marker 24-Color Pack,Office Supplies,East,3,19.99,59.97,26.37,33.6
+ORD-11235,2023-08-04,Joshua Hernandez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,4,54.5,218.0,178.61,39.39
+ORD-10023,2023-08-04,Patricia Thomas,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,187.04,101.96
+ORD-11111,2023-08-05,Edward Robinson,Samsung 34-Inch Curved Monitor,Electronics,West,2,549.5,1099.0,818.31,280.69
+ORD-10410,2023-08-07,Elizabeth White,Fast Wireless Charging Pad 15W,Accessories,North,2,32.5,65.0,36.56,28.44
+ORD-11150,2023-08-07,Richard Wright,Commercial Heavy-Duty Stapler Set,Office Supplies,East,3,34.9,104.7,57.67,47.03
+ORD-10193,2023-08-08,Joseph Lee,Surge Protector 12-Outlet Power Strip,Accessories,East,1,38.0,38.0,18.11,19.89
+ORD-10454,2023-08-08,Edward Robinson,Motorized Standing Desk 60x30,Furniture,South,3,499.0,1497.0,934.36,562.64
+ORD-10749,2023-08-08,Robert Allen,Solid Oak Conference Table,Furniture,North,2,890.0,1780.0,1322.12,457.88
+ORD-11053,2023-08-08,David White,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,5,54.5,272.5,203.48,69.02
+ORD-11005,2023-08-08,Joshua Jones,Aluminum Laptop Stand Riser,Accessories,East,3,45.0,135.0,62.4,72.6
+ORD-10932,2023-08-10,Kevin Allen,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,2,54.5,109.0,86.65,22.35
+ORD-10891,2023-08-11,Steven Miller,Logitech MX Master 3S Wireless Mouse,Accessories,North,8,99.99,799.92,440.25,359.67
+ORD-10941,2023-08-12,Nancy Moore,5-Tier Industrial Bookshelf,Furniture,South,2,185.0,370.0,203.83,166.17
+ORD-10459,2023-08-13,William Miller,Surge Protector 12-Outlet Power Strip,Accessories,South,4,38.0,152.0,78.52,73.48
+ORD-11200,2023-08-15,Richard Jones,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,1,29.99,29.99,14.07,15.92
+ORD-10513,2023-08-15,Kimberly Smith,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,307.68,-18.68
+ORD-10620,2023-08-15,William Rodriguez,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,34.0,31.0
+ORD-10569,2023-08-16,Kevin Davis,Solid Oak Conference Table,Furniture,South,2,890.0,1780.0,1345.66,434.34
+ORD-10634,2023-08-17,Joshua Robinson,Mobile 3-Drawer File Cabinet,Furniture,South,3,145.0,435.0,269.01,165.99
+ORD-10563,2023-08-17,Sarah Perez,Logitech MX Master 3S Wireless Mouse,Accessories,South,4,99.99,399.96,219.76,180.2
+ORD-10204,2023-08-18,William Miller,Solid Oak Conference Table,Furniture,Central,2,890.0,1780.0,1313.63,466.37
+ORD-11208,2023-08-18,Margaret Williams,Motorized Standing Desk 60x30,Furniture,Central,1,499.0,499.0,328.32,170.68
+ORD-10590,2023-08-19,David Wright,Aluminum Laptop Stand Riser,Accessories,West,2,45.0,90.0,45.95,44.05
+ORD-10240,2023-08-19,Patricia Anderson,Commercial Heavy-Duty Stapler Set,Office Supplies,West,5,34.9,174.5,85.52,88.98
+ORD-11035,2023-08-20,Joshua Gonzalez,Fast Wireless Charging Pad 15W,Accessories,Central,4,32.5,130.0,71.42,58.58
+ORD-10902,2023-08-20,Kevin Davis,Mobile 3-Drawer File Cabinet,Furniture,Central,2,145.0,290.0,179.18,110.82
+ORD-10028,2023-08-22,Lisa Torres,Dell XPS 15 Laptop,Electronics,West,1,1499.99,1499.99,1070.14,429.85
+ORD-10429,2023-08-22,Thomas King,Commercial Heavy-Duty Stapler Set,Office Supplies,North,5,34.9,174.5,80.53,93.97
+ORD-10504,2023-08-22,Elizabeth Wilson,Executive High-Back Leather Chair,Furniture,Central,1,349.0,349.0,243.99,105.01
+ORD-10936,2023-08-24,Richard Wright,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,2,129.99,259.98,184.45,75.53
+ORD-10637,2023-08-24,Deborah Scott,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,638.54,251.46
+ORD-10049,2023-08-25,Susan Young,Aluminum Laptop Stand Riser,Accessories,North,1,45.0,45.0,22.04,22.96
+ORD-10549,2023-08-25,Joseph Rodriguez,Executive High-Back Leather Chair,Furniture,South,1,349.0,349.0,243.46,105.54
+ORD-10741,2023-08-25,Emily Smith,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,85.53,59.47
+ORD-10663,2023-08-26,Kevin Allen,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,243.0,86.0
+ORD-10958,2023-08-26,Melissa Brown,Commercial Heavy-Duty Stapler Set,Office Supplies,East,2,34.9,69.8,34.98,34.82
+ORD-11217,2023-08-27,Jessica Moore,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,3,24.5,73.5,30.46,43.04
+ORD-10143,2023-08-27,Kevin Scott,Surge Protector 12-Outlet Power Strip,Accessories,North,6,38.0,228.0,104.96,123.04
+ORD-10547,2023-08-29,Kevin Davis,Dell XPS 15 Laptop,Electronics,West,3,1499.99,4499.97,3511.0,988.97
+ORD-10929,2023-08-29,Brian Walker,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,2,54.5,109.0,83.26,25.74
+ORD-10040,2023-08-29,Karen Thomas,Executive High-Back Leather Chair,Furniture,South,1,349.0,349.0,210.42,138.58
+ORD-11154,2023-08-30,Emily Anderson,Fast Wireless Charging Pad 15W,Accessories,Central,3,32.5,97.5,57.26,40.24
+ORD-11044,2023-08-30,Elizabeth Taylor,Ergonomic Mesh Office Chair,Furniture,North,1,289.0,289.0,176.14,112.86
+ORD-11076,2023-08-30,Joshua Gonzalez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,2,54.5,109.0,89.61,19.39
+ORD-10442,2023-08-31,Brian Moore,Motorized Standing Desk 60x30,Furniture,West,3,499.0,1497.0,998.73,498.27
+ORD-11213,2023-08-31,Steven Hill,Surge Protector 12-Outlet Power Strip,Accessories,East,2,38.0,76.0,35.83,40.17
+ORD-10145,2023-09-01,Steven Lopez,Solid Oak Conference Table,Furniture,North,1,890.0,890.0,600.94,289.06
+ORD-10474,2023-09-01,Patricia Anderson,Solid Oak Conference Table,Furniture,North,3,890.0,2670.0,1790.63,879.37
+ORD-11057,2023-09-03,Joseph Miller,Magnetic Whiteboard 48x36,Office Supplies,South,3,95.0,285.0,177.86,107.14
+ORD-10415,2023-09-03,Amanda Ramirez,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,91.53,53.47
+ORD-10520,2023-09-04,Mary Garcia,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,2,24.5,49.0,51.2,-2.2
+ORD-10319,2023-09-06,Jennifer Young,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,2,24.5,49.0,19.05,29.95
+ORD-10063,2023-09-06,Mark Nguyen,Aluminum Laptop Stand Riser,Accessories,West,5,45.0,225.0,115.21,109.79
+ORD-11119,2023-09-06,Matthew Garcia,Executive High-Back Leather Chair,Furniture,East,2,349.0,698.0,735.78,-37.78
+ORD-10142,2023-09-07,Nancy Moore,Dry Erase Marker 24-Color Pack,Office Supplies,North,5,19.99,99.95,44.63,55.32
+ORD-11238,2023-09-08,Jennifer Nguyen,Surge Protector 12-Outlet Power Strip,Accessories,East,1,38.0,38.0,19.92,18.08
+ORD-10068,2023-09-09,Melissa Brown,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,401.17,148.33
+ORD-11175,2023-09-09,Melissa Brown,Aluminum Laptop Stand Riser,Accessories,West,3,45.0,135.0,60.77,74.23
+ORD-10455,2023-09-09,Kimberly Smith,Executive High-Back Leather Chair,Furniture,East,3,349.0,1047.0,688.39,358.61
+ORD-10304,2023-09-11,Joseph Rodriguez,5-Tier Industrial Bookshelf,Furniture,North,1,185.0,185.0,119.33,65.67
+ORD-10560,2023-09-12,Linda Martinez,5-Tier Industrial Bookshelf,Furniture,West,2,185.0,370.0,206.4,163.6
+ORD-11066,2023-09-13,Joshua Robinson,Aluminum Laptop Stand Riser,Accessories,Central,5,45.0,225.0,119.61,105.39
+ORD-10004,2023-09-13,Brian Young,Samsung 34-Inch Curved Monitor,Electronics,East,3,549.5,1648.5,1163.91,484.59
+ORD-10606,2023-09-15,Linda Jackson,Samsung 34-Inch Curved Monitor,Electronics,East,1,549.5,549.5,368.74,180.76
+ORD-10516,2023-09-16,Kevin Flores,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,3,54.5,163.5,133.23,30.27
+ORD-10542,2023-09-16,Jennifer Brown,Aluminum Laptop Stand Riser,Accessories,North,3,45.0,135.0,69.61,65.39
+ORD-10747,2023-09-18,Betty Moore,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,2,54.5,109.0,90.16,18.84
+ORD-10119,2023-09-18,Joseph Rodriguez,Motorized Standing Desk 60x30,Furniture,West,3,499.0,1497.0,1011.72,485.28
+ORD-10650,2023-09-18,Linda Martinez,Surge Protector 12-Outlet Power Strip,Accessories,South,5,38.0,190.0,93.86,96.14
+ORD-10154,2023-09-19,Robert Wilson,Logitech 4K Pro Webcam,Electronics,West,1,199.99,199.99,114.18,85.81
+ORD-10737,2023-09-20,Margaret Williams,5-Tier Industrial Bookshelf,Furniture,South,2,185.0,370.0,200.38,169.62
+ORD-10274,2023-09-20,Joshua Ramirez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,5,29.99,149.95,66.36,83.59
+ORD-10476,2023-09-20,Mark Davis,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,251.78,128.21
+ORD-10691,2023-09-21,Patricia Anderson,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1142.32,357.67
+ORD-10284,2023-09-21,William Rodriguez,HP LaserJet Pro Multifunction Printer,Electronics,North,1,329.0,329.0,228.79,100.21
+ORD-10671,2023-09-22,Susan Anderson,Mobile 3-Drawer File Cabinet,Furniture,East,4,145.0,580.0,371.91,208.09
+ORD-10070,2023-09-22,Joseph Lee,Motorized Standing Desk 60x30,Furniture,West,2,499.0,998.0,1074.21,-76.21
+ORD-10451,2023-09-23,Donna Anderson,Samsung 34-Inch Curved Monitor,Electronics,North,1,549.5,549.5,411.19,138.31
+ORD-10625,2023-09-24,Amanda Davis,Magnetic Whiteboard 48x36,Office Supplies,East,4,95.0,380.0,221.88,158.12
+ORD-10323,2023-09-25,Sarah Perez,Dry Erase Marker 24-Color Pack,Office Supplies,East,2,19.99,39.98,15.92,24.06
+ORD-11020,2023-09-25,Amanda Davis,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,589.29,300.71
+ORD-10884,2023-09-26,Nancy Miller,Commercial Heavy-Duty Stapler Set,Office Supplies,West,1,34.9,34.9,19.94,14.96
+ORD-10254,2023-09-28,Emily Hernandez,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,108.79,76.21
+ORD-11085,2023-09-28,Joshua Robinson,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,666.1,223.9
+ORD-10643,2023-09-28,Daniel Hill,Fast Wireless Charging Pad 15W,Accessories,West,6,32.5,195.0,107.56,87.44
+ORD-10896,2023-09-29,Thomas Williams,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,8,54.5,436.0,333.14,102.86
+ORD-10112,2023-09-29,Joseph Lee,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,3,24.5,73.5,33.97,39.53
+ORD-10900,2023-09-30,Jennifer Harris,Aluminum Laptop Stand Riser,Accessories,South,2,45.0,90.0,39.64,50.36
+ORD-11074,2023-09-30,Daniel Wilson,Fast Wireless Charging Pad 15W,Accessories,East,1,32.5,32.5,18.94,13.56
+ORD-10161,2023-10-01,William Miller,HP LaserJet Pro Multifunction Printer,Electronics,South,2,329.0,658.0,507.04,150.96
+ORD-10333,2023-10-01,Robert Perez,Mobile 3-Drawer File Cabinet,Furniture,North,4,145.0,580.0,356.75,223.25
+ORD-10346,2023-10-02,Jennifer Harris,Mobile 3-Drawer File Cabinet,Furniture,West,2,145.0,290.0,188.14,101.86
+ORD-10386,2023-10-02,Mark King,Magnetic Whiteboard 48x36,Office Supplies,West,2,95.0,190.0,121.36,68.64
+ORD-11123,2023-10-02,Jessica Walker,Logitech MX Master 3S Wireless Mouse,Accessories,East,2,99.99,199.98,119.86,80.12
+ORD-10771,2023-10-05,Margaret Williams,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,1,54.5,54.5,42.87,11.63
+ORD-10275,2023-10-06,Elizabeth Wilson,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,242.85,137.14
+ORD-10713,2023-10-06,Jennifer Young,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,2,24.5,49.0,18.53,30.47
+ORD-10987,2023-10-07,Betty Moore,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,8,129.99,1039.92,619.63,420.29
+ORD-11036,2023-10-07,Susan Anderson,Dry Erase Marker 24-Color Pack,Office Supplies,West,2,19.99,39.98,16.2,23.78
+ORD-10129,2023-10-07,Melissa Brown,HP LaserJet Pro Multifunction Printer,Electronics,South,2,329.0,658.0,472.33,185.67
+ORD-11046,2023-10-07,Elizabeth Wilson,Dell XPS 15 Laptop,Electronics,South,2,1499.99,2999.98,2277.11,722.87
+ORD-11061,2023-10-08,Jessica Moore,Samsung 34-Inch Curved Monitor,Electronics,West,3,549.5,1648.5,1148.23,500.27
+ORD-10403,2023-10-08,Richard Wright,Logitech MX Master 3S Wireless Mouse,Accessories,South,1,99.99,99.99,61.97,38.02
+ORD-10679,2023-10-09,Kevin Hernandez,HP LaserJet Pro Multifunction Printer,Electronics,Central,3,329.0,987.0,684.61,302.39
+ORD-10224,2023-10-09,David Wright,Apple MacBook Air M2,Electronics,North,2,1199.0,2398.0,1807.13,590.87
+ORD-10150,2023-10-09,Joshua Gonzalez,Logitech MX Master 3S Wireless Mouse,Accessories,East,4,99.99,399.96,234.26,165.7
+ORD-10352,2023-10-10,Deborah Scott,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,219.94,129.06
+ORD-10894,2023-10-11,Melissa Martin,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,3,129.99,389.97,266.12,123.85
+ORD-10519,2023-10-11,Matthew Moore,Logitech MX Master 3S Wireless Mouse,Accessories,West,5,99.99,499.95,287.9,212.05
+ORD-11002,2023-10-12,Edward Taylor,5-Tier Industrial Bookshelf,Furniture,South,3,185.0,555.0,351.7,203.3
+ORD-10877,2023-10-12,Joseph Miller,Logitech 4K Pro Webcam,Electronics,East,1,199.99,199.99,118.16,81.83
+ORD-10374,2023-10-13,Susan Wright,Aluminum Laptop Stand Riser,Accessories,West,1,45.0,45.0,20.35,24.65
+ORD-10029,2023-10-13,Patricia Anderson,Logitech MX Master 3S Wireless Mouse,Accessories,East,3,99.99,299.97,192.35,107.62
+ORD-11016,2023-10-13,Nancy Miller,Surge Protector 12-Outlet Power Strip,Accessories,East,1,38.0,38.0,19.71,18.29
+ORD-10778,2023-10-14,Lisa Torres,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,115.29,84.7
+ORD-11191,2023-10-14,William Torres,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,3,129.99,389.97,267.62,122.35
+ORD-11084,2023-10-15,Joshua Ramirez,5-Tier Industrial Bookshelf,Furniture,Central,1,185.0,185.0,119.37,65.63
+ORD-10636,2023-10-15,Kevin Flores,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,129.21,70.78
+ORD-11199,2023-10-15,Patricia Thomas,Aluminum Laptop Stand Riser,Accessories,South,1,45.0,45.0,23.11,21.89
+ORD-10018,2023-10-16,Kevin Martin,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,52.74,37.25
+ORD-10199,2023-10-16,Mark King,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,84.02,60.98
+ORD-10518,2023-10-17,George Jones,Keychron Mechanical Wireless Keyboard,Accessories,North,1,119.0,119.0,80.75,38.25
+ORD-10848,2023-10-17,Melissa Martin,5-Tier Industrial Bookshelf,Furniture,East,1,185.0,185.0,102.19,82.81
+ORD-10320,2023-10-17,Andrew Lee,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,2,54.5,109.0,84.08,24.92
+ORD-11075,2023-10-17,Emily Hernandez,Keychron Mechanical Wireless Keyboard,Accessories,North,1,119.0,119.0,128.32,-9.32
+ORD-10641,2023-10-18,Mary Scott,Anker 10-in-1 USB-C Hub,Electronics,East,4,89.99,359.96,221.04,138.92
+ORD-10890,2023-10-18,Joseph Miller,Anker 10-in-1 USB-C Hub,Electronics,North,2,89.99,179.98,93.02,86.96
+ORD-11166,2023-10-18,Kevin Flores,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,221.97,107.03
+ORD-10188,2023-10-18,Joseph Miller,Fast Wireless Charging Pad 15W,Accessories,West,8,32.5,260.0,143.6,116.4
+ORD-10167,2023-10-18,Karen Thomas,Keychron Mechanical Wireless Keyboard,Accessories,East,3,119.0,357.0,213.13,143.87
+ORD-11026,2023-10-19,David Robinson,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,971.71,227.29
+ORD-10331,2023-10-21,Jessica Anderson,Commercial Heavy-Duty Stapler Set,Office Supplies,West,3,34.9,104.7,58.29,46.41
+ORD-10816,2023-10-22,Paul Taylor,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,2,24.5,49.0,21.02,27.98
+ORD-10381,2023-10-23,Elizabeth Wilson,HP LaserJet Pro Multifunction Printer,Electronics,South,1,329.0,329.0,219.26,109.74
+ORD-10976,2023-10-23,Michael Thompson,Fast Wireless Charging Pad 15W,Accessories,Central,2,32.5,65.0,38.19,26.81
+ORD-10245,2023-10-24,Kimberly Smith,Executive High-Back Leather Chair,Furniture,East,2,349.0,698.0,476.17,221.83
+ORD-10169,2023-10-24,David Robinson,Sony WH-1000XM5 Headphones,Electronics,North,2,379.99,759.98,479.61,280.37
+ORD-10550,2023-10-25,Betty Moore,Keychron Mechanical Wireless Keyboard,Accessories,South,4,119.0,476.0,271.99,204.01
+ORD-11121,2023-10-25,Amanda Wright,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,3,29.99,89.97,44.71,45.26
+ORD-10876,2023-10-26,Emily Anderson,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,31.84,33.16
+ORD-10392,2023-10-27,Brian Moore,Dry Erase Marker 24-Color Pack,Office Supplies,South,5,19.99,99.95,49.8,50.15
+ORD-10524,2023-10-28,Anthony Anderson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,2,29.99,59.98,30.41,29.57
+ORD-10874,2023-10-29,Brian Moore,HP LaserJet Pro Multifunction Printer,Electronics,North,3,329.0,987.0,740.18,246.82
+ORD-10668,2023-10-29,Joseph Lee,Sony WH-1000XM5 Headphones,Electronics,West,4,379.99,1519.96,1086.97,432.99
+ORD-11249,2023-10-29,Joseph Jones,Commercial Heavy-Duty Stapler Set,Office Supplies,East,3,34.9,104.7,58.04,46.66
+ORD-10151,2023-10-29,Joseph Rodriguez,Commercial Heavy-Duty Stapler Set,Office Supplies,East,1,34.9,34.9,18.99,15.91
+ORD-10546,2023-10-30,Michael Thompson,Apple MacBook Air M2,Electronics,East,3,1199.0,3597.0,2850.93,746.07
+ORD-10521,2023-10-30,Matthew Moore,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,4,129.99,519.96,343.15,176.81
+ORD-10731,2023-10-30,Donna Anderson,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,355.84,143.16
+ORD-10388,2023-11-01,Brian Young,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,968.8,230.2
+ORD-11048,2023-11-02,Jessica Moore,Samsung 34-Inch Curved Monitor,Electronics,Central,1,549.5,549.5,375.64,173.86
+ORD-10270,2023-11-02,Lisa Torres,Executive High-Back Leather Chair,Furniture,West,2,349.0,698.0,476.61,221.39
+ORD-10708,2023-11-03,Mary Moore,Surge Protector 12-Outlet Power Strip,Accessories,East,2,38.0,76.0,78.75,-2.75
+ORD-10260,2023-11-03,Steven Lopez,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,639.72,250.28
+ORD-10923,2023-11-05,Patricia Anderson,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,1,129.99,129.99,78.53,51.46
+ORD-10595,2023-11-05,Kevin Hernandez,Dry Erase Marker 24-Color Pack,Office Supplies,East,1,19.99,19.99,9.29,10.7
+ORD-10135,2023-11-06,Joshua Lee,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,1,129.99,129.99,77.27,52.72
+ORD-10830,2023-11-06,Kevin Flores,Commercial Heavy-Duty Stapler Set,Office Supplies,South,1,34.9,34.9,19.34,15.56
+ORD-10503,2023-11-07,Joshua Hernandez,Motorized Standing Desk 60x30,Furniture,West,3,499.0,1497.0,1051.17,445.83
+ORD-10942,2023-11-09,Michael Thompson,Aluminum Laptop Stand Riser,Accessories,East,3,45.0,135.0,68.86,66.14
+ORD-10515,2023-11-09,William Rodriguez,Aluminum Laptop Stand Riser,Accessories,East,2,45.0,90.0,43.67,46.33
+ORD-10073,2023-11-10,Ashley Johnson,Dry Erase Marker 24-Color Pack,Office Supplies,South,3,19.99,59.97,25.26,34.71
+ORD-10289,2023-11-11,Michael Thompson,Mobile 3-Drawer File Cabinet,Furniture,West,3,145.0,435.0,289.94,145.06
+ORD-10913,2023-11-11,James Jones,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,258.74,121.25
+ORD-10438,2023-11-11,Mark Nguyen,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,51.21,38.78
+ORD-10471,2023-11-11,Emily Hernandez,Aluminum Laptop Stand Riser,Accessories,South,1,45.0,45.0,19.81,25.19
+ORD-10854,2023-11-12,Elizabeth Taylor,Samsung 34-Inch Curved Monitor,Electronics,East,2,549.5,1099.0,782.01,316.99
+ORD-10217,2023-11-14,Matthew Harris,Mobile 3-Drawer File Cabinet,Furniture,Central,1,145.0,145.0,85.61,59.39
+ORD-10507,2023-11-15,Robert Wright,Commercial Heavy-Duty Stapler Set,Office Supplies,East,4,34.9,139.6,73.0,66.6
+ORD-11222,2023-11-16,Edward Taylor,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,3,129.99,389.97,246.82,143.15
+ORD-10164,2023-11-16,Brian Walker,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,596.47,293.53
+ORD-11009,2023-11-16,Patricia Thomas,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,2,54.5,109.0,93.54,15.46
+ORD-10531,2023-11-17,David Wright,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,960.81,238.19
+ORD-10009,2023-11-18,Mary Garcia,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,973.98,225.02
+ORD-11007,2023-11-18,David Ramirez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,1,54.5,54.5,45.32,9.18
+ORD-10674,2023-11-18,John Lee,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,56.12,33.87
+ORD-11146,2023-11-18,Patricia Anderson,Dell XPS 15 Laptop,Electronics,West,3,1499.99,4499.97,3389.59,1110.38
+ORD-10339,2023-11-19,Jessica Anderson,Anker 10-in-1 USB-C Hub,Electronics,East,2,89.99,179.98,107.18,72.8
+ORD-10829,2023-11-19,Robert Wright,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,977.48,221.52
+ORD-10745,2023-11-19,Sarah Perez,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,655.03,234.97
+ORD-11143,2023-11-19,Elizabeth Taylor,Surge Protector 12-Outlet Power Strip,Accessories,North,1,38.0,38.0,20.94,17.06
+ORD-10682,2023-11-20,Andrew Garcia,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1124.57,375.42
+ORD-10672,2023-11-20,William Thomas,5-Tier Industrial Bookshelf,Furniture,East,1,185.0,185.0,118.37,66.63
+ORD-10530,2023-11-20,Jessica Moore,Aluminum Laptop Stand Riser,Accessories,North,1,45.0,45.0,21.6,23.4
+ORD-10696,2023-11-21,Joshua Lee,Executive High-Back Leather Chair,Furniture,West,2,349.0,698.0,451.92,246.08
+ORD-10784,2023-11-23,William Torres,Heavy-Duty Cross-Cut Shredder,Office Supplies,Central,2,129.99,259.98,176.65,83.33
+ORD-10232,2023-11-24,Linda White,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,106.35,78.65
+ORD-10600,2023-11-25,Andrew Lee,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,244.69,135.3
+ORD-11176,2023-11-25,Elizabeth Taylor,Dry Erase Marker 24-Color Pack,Office Supplies,North,5,19.99,99.95,38.26,61.69
+ORD-10534,2023-11-26,Susan Wright,Commercial Heavy-Duty Stapler Set,Office Supplies,North,3,34.9,104.7,56.04,48.66
+ORD-11193,2023-11-26,Joseph Lee,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,46.07,43.92
+ORD-10746,2023-11-28,Kevin Martin,Ergonomic Mesh Office Chair,Furniture,East,1,289.0,289.0,194.17,94.83
+ORD-10930,2023-11-30,Richard Jones,Surge Protector 12-Outlet Power Strip,Accessories,North,1,38.0,38.0,18.56,19.44
+ORD-10357,2023-11-30,Andrew Lee,Motorized Standing Desk 60x30,Furniture,West,1,499.0,499.0,316.2,182.8
+ORD-10959,2023-12-01,Kevin Hernandez,Dry Erase Marker 24-Color Pack,Office Supplies,West,3,19.99,59.97,26.74,33.23
+ORD-10443,2023-12-01,Paul Thomas,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,1,54.5,54.5,41.66,12.84
+ORD-11239,2023-12-02,Charles Garcia,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,869.48,329.52
+ORD-10434,2023-12-02,Richard Wright,Magnetic Whiteboard 48x36,Office Supplies,East,2,95.0,190.0,109.25,80.75
+ORD-10855,2023-12-02,Amanda Ramirez,Logitech MX Master 3S Wireless Mouse,Accessories,West,1,99.99,99.99,63.8,36.19
+ORD-10191,2023-12-03,Donna Anderson,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,259.45,140.53
+ORD-10814,2023-12-04,Kimberly Taylor,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,3,129.99,389.97,258.72,131.25
+ORD-10034,2023-12-05,Joshua Gonzalez,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,683.53,206.47
+ORD-10621,2023-12-06,William Torres,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,2,29.99,59.98,26.79,33.19
+ORD-11227,2023-12-06,Robert Allen,Dry Erase Marker 24-Color Pack,Office Supplies,East,2,19.99,39.98,16.63,23.35
+ORD-10365,2023-12-06,Robert Perez,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,1,129.99,129.99,80.16,49.83
+ORD-11079,2023-12-07,John Anderson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,10,29.99,299.9,156.76,143.14
+ORD-10214,2023-12-07,Elizabeth Wilson,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,943.78,255.22
+ORD-11062,2023-12-07,William Rodriguez,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,5,129.99,649.95,447.77,202.18
+ORD-11149,2023-12-09,Susan Young,Fast Wireless Charging Pad 15W,Accessories,West,5,32.5,162.5,88.15,74.35
+ORD-10949,2023-12-09,John Anderson,Magnetic Whiteboard 48x36,Office Supplies,North,2,95.0,190.0,124.01,65.99
+ORD-10755,2023-12-09,Patricia Anderson,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,5,129.99,649.95,451.31,198.64
+ORD-11209,2023-12-09,Mary Scott,Dry Erase Marker 24-Color Pack,Office Supplies,West,10,19.99,199.9,81.37,118.53
+ORD-10978,2023-12-10,Susan Anderson,Dry Erase Marker 24-Color Pack,Office Supplies,West,1,19.99,19.99,8.58,11.41
+ORD-10282,2023-12-10,Daniel Wilson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,3,54.5,163.5,130.68,32.82
+ORD-11247,2023-12-11,Paul Taylor,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,2,54.5,109.0,91.18,17.82
+ORD-10537,2023-12-12,Deborah Nguyen,Keychron Mechanical Wireless Keyboard,Accessories,Central,2,119.0,238.0,159.02,78.98
+ORD-10915,2023-12-12,Emily Anderson,Fast Wireless Charging Pad 15W,Accessories,West,2,32.5,65.0,38.81,26.19
+ORD-10823,2023-12-13,Karen Thomas,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,4,29.99,119.96,58.48,61.48
+ORD-10130,2023-12-13,Mary Nguyen,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,266.18,113.81
+ORD-10670,2023-12-14,Mark King,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,5,54.5,272.5,229.84,42.66
+ORD-10257,2023-12-14,Linda Jackson,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,111.2,73.8
+ORD-10567,2023-12-16,Betty Moore,Apple MacBook Air M2,Electronics,West,2,1199.0,2398.0,1798.11,599.89
+ORD-10065,2023-12-16,Mary Moore,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,1,129.99,129.99,91.68,38.31
+ORD-10822,2023-12-16,Betty Robinson,Fast Wireless Charging Pad 15W,Accessories,East,8,32.5,260.0,150.76,109.24
+ORD-11192,2023-12-17,David Wright,Motorized Standing Desk 60x30,Furniture,Central,2,499.0,998.0,651.46,346.54
+ORD-10996,2023-12-17,Thomas Williams,Aluminum Laptop Stand Riser,Accessories,South,4,45.0,180.0,81.76,98.24
+ORD-10684,2023-12-18,Betty Moore,HP LaserJet Pro Multifunction Printer,Electronics,East,1,329.0,329.0,244.8,84.2
+ORD-10707,2023-12-19,Daniel Wilson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,3,29.99,89.97,42.2,47.77
+ORD-10681,2023-12-22,Betty Robinson,Keychron Mechanical Wireless Keyboard,Accessories,West,2,119.0,238.0,136.72,101.28
+ORD-11124,2023-12-22,Betty White,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,23.72,21.28
+ORD-10764,2023-12-23,Paul Davis,Solid Oak Conference Table,Furniture,South,2,890.0,1780.0,1339.2,440.8
+ORD-10809,2023-12-24,Amanda Wright,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,264.21,135.77
+ORD-10597,2023-12-24,Lisa Torres,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,49.07,40.92
+ORD-10765,2023-12-25,Kevin Allen,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,2,54.5,109.0,92.75,16.25
+ORD-10176,2023-12-26,Emily Hernandez,Logitech MX Master 3S Wireless Mouse,Accessories,West,1,99.99,99.99,55.75,44.24
+ORD-10125,2023-12-27,Lisa Torres,Logitech MX Master 3S Wireless Mouse,Accessories,North,2,99.99,199.98,126.12,73.86
+ORD-10776,2023-12-30,Elizabeth White,Executive High-Back Leather Chair,Furniture,South,4,349.0,1396.0,921.57,474.43
+ORD-10867,2023-12-30,Lisa Torres,HP LaserJet Pro Multifunction Printer,Electronics,East,1,329.0,329.0,236.81,92.19
+ORD-11028,2024-01-01,William Thomas,5-Tier Industrial Bookshelf,Furniture,North,1,185.0,185.0,105.11,79.89
+ORD-10213,2024-01-01,Mark Davis,Samsung 34-Inch Curved Monitor,Electronics,South,2,549.5,1099.0,786.21,312.79
+ORD-10445,2024-01-02,Melissa Martin,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,55.1,34.89
+ORD-10787,2024-01-03,Mary Scott,Aluminum Laptop Stand Riser,Accessories,West,1,45.0,45.0,24.37,20.63
+ORD-10903,2024-01-03,Kevin Scott,Keychron Mechanical Wireless Keyboard,Accessories,South,1,119.0,119.0,80.88,38.12
+ORD-10933,2024-01-03,Sandra White,Anker 10-in-1 USB-C Hub,Electronics,South,1,89.99,89.99,52.04,37.95
+ORD-10556,2024-01-03,Kevin Allen,Dell XPS 15 Laptop,Electronics,West,3,1499.99,4499.97,3452.71,1047.26
+ORD-10140,2024-01-03,Mary Garcia,Mobile 3-Drawer File Cabinet,Furniture,South,4,145.0,580.0,390.85,189.15
+ORD-10812,2024-01-04,Amanda Wright,Samsung 34-Inch Curved Monitor,Electronics,West,1,549.5,549.5,410.86,138.64
+ORD-10863,2024-01-04,Joseph Jones,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,10,129.99,1299.9,871.46,428.44
+ORD-11232,2024-01-04,Jennifer Nguyen,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1059.4,440.59
+ORD-10697,2024-01-07,Joshua Ramirez,Dry Erase Marker 24-Color Pack,Office Supplies,East,2,19.99,39.98,16.0,23.98
+ORD-10846,2024-01-08,Betty Robinson,HP LaserJet Pro Multifunction Printer,Electronics,West,2,329.0,658.0,496.56,161.44
+ORD-10430,2024-01-08,Susan Young,Logitech 4K Pro Webcam,Electronics,North,4,199.99,799.96,451.37,348.59
+ORD-11013,2024-01-08,Matthew Garcia,Solid Oak Conference Table,Furniture,North,2,890.0,1780.0,1261.16,518.84
+ORD-10904,2024-01-10,Emily Smith,Solid Oak Conference Table,Furniture,North,1,890.0,890.0,669.26,220.74
+ORD-10408,2024-01-12,William Torres,Executive High-Back Leather Chair,Furniture,North,2,349.0,698.0,481.88,216.12
+ORD-10219,2024-01-12,Deborah Nguyen,Mobile 3-Drawer File Cabinet,Furniture,West,3,145.0,435.0,263.78,171.22
+ORD-10953,2024-01-12,Mary Nguyen,Keychron Mechanical Wireless Keyboard,Accessories,Central,4,119.0,476.0,320.3,155.7
+ORD-10159,2024-01-12,Sarah Smith,Surge Protector 12-Outlet Power Strip,Accessories,South,1,38.0,38.0,19.44,18.56
+ORD-11102,2024-01-13,Kevin Allen,HP LaserJet Pro Multifunction Printer,Electronics,East,1,329.0,329.0,218.74,110.26
+ORD-10397,2024-01-13,Joseph Rodriguez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,1,29.99,29.99,15.08,14.91
+ORD-10964,2024-01-14,Edward Robinson,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,49.32,40.67
+ORD-10248,2024-01-15,Matthew Harris,Magnetic Whiteboard 48x36,Office Supplies,North,1,95.0,95.0,52.7,42.3
+ORD-10965,2024-01-17,Betty White,Magnetic Whiteboard 48x36,Office Supplies,Central,3,95.0,285.0,306.42,-21.42
+ORD-10329,2024-01-18,Mary Garcia,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,6,24.5,147.0,69.02,77.98
+ORD-10570,2024-01-18,Jennifer Young,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,238.2,141.79
+ORD-10601,2024-01-19,Matthew Harris,Commercial Heavy-Duty Stapler Set,Office Supplies,East,1,34.9,34.9,19.82,15.08
+ORD-10480,2024-01-20,Michael Thompson,Fast Wireless Charging Pad 15W,Accessories,North,6,32.5,195.0,116.49,78.51
+ORD-10301,2024-01-20,Mary Scott,Keychron Mechanical Wireless Keyboard,Accessories,Central,5,119.0,595.0,342.7,252.3
+ORD-10892,2024-01-20,Ashley Johnson,Surge Protector 12-Outlet Power Strip,Accessories,West,3,38.0,114.0,65.67,48.33
+ORD-11230,2024-01-20,Emily Jackson,Mobile 3-Drawer File Cabinet,Furniture,North,4,145.0,580.0,350.05,229.95
+ORD-11197,2024-01-21,James Jones,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,1,24.5,24.5,11.08,13.42
+ORD-11069,2024-01-22,Melissa Brown,Dry Erase Marker 24-Color Pack,Office Supplies,South,6,19.99,119.94,58.86,61.08
+ORD-11245,2024-01-22,Sandra Smith,HP LaserJet Pro Multifunction Printer,Electronics,Central,1,329.0,329.0,238.88,90.12
+ORD-10710,2024-01-23,Lisa Torres,Motorized Standing Desk 60x30,Furniture,North,2,499.0,998.0,680.63,317.37
+ORD-10644,2024-01-23,Susan Young,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,132.62,67.37
+ORD-10057,2024-01-24,David White,Surge Protector 12-Outlet Power Strip,Accessories,Central,2,38.0,76.0,42.57,33.43
+ORD-10036,2024-01-24,Karen Thomas,Fast Wireless Charging Pad 15W,Accessories,Central,3,32.5,97.5,50.32,47.18
+ORD-10324,2024-01-24,Margaret Hernandez,Ergonomic Mesh Office Chair,Furniture,East,2,289.0,578.0,382.74,195.26
+ORD-10083,2024-01-25,Betty White,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,3,54.5,163.5,129.4,34.1
+ORD-10351,2024-01-25,Daniel Hill,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,115.5,84.49
+ORD-10773,2024-01-25,Matthew Harris,Aluminum Laptop Stand Riser,Accessories,North,2,45.0,90.0,48.96,41.04
+ORD-10312,2024-01-26,Mark Davis,Commercial Heavy-Duty Stapler Set,Office Supplies,South,2,34.9,69.8,33.36,36.44
+ORD-10109,2024-01-26,Susan Young,Keychron Mechanical Wireless Keyboard,Accessories,West,3,119.0,357.0,206.44,150.56
+ORD-10980,2024-01-26,Brian Moore,Magnetic Whiteboard 48x36,Office Supplies,East,5,95.0,475.0,273.71,201.29
+ORD-10862,2024-01-26,Deborah Nguyen,Magnetic Whiteboard 48x36,Office Supplies,North,1,95.0,95.0,52.89,42.11
+ORD-11248,2024-01-27,William Miller,HP LaserJet Pro Multifunction Printer,Electronics,East,1,329.0,329.0,220.14,108.86
+ORD-10118,2024-01-27,Joshua Gonzalez,Keychron Mechanical Wireless Keyboard,Accessories,South,6,119.0,714.0,412.1,301.9
+ORD-10104,2024-01-28,Paul Davis,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,5,24.5,122.5,56.8,65.7
+ORD-11078,2024-01-28,Robert Wright,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,2,129.99,259.98,156.36,103.62
+ORD-10108,2024-01-28,Richard Jones,Surge Protector 12-Outlet Power Strip,Accessories,East,2,38.0,76.0,39.27,36.73
+ORD-10456,2024-01-28,Elizabeth Wilson,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,5,129.99,649.95,424.48,225.47
+ORD-10631,2024-02-02,Jennifer Brown,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,1,54.5,54.5,44.57,9.93
+ORD-10496,2024-02-02,Linda Jackson,Mobile 3-Drawer File Cabinet,Furniture,East,3,145.0,435.0,270.73,164.27
+ORD-10720,2024-02-03,Patricia Thomas,Executive High-Back Leather Chair,Furniture,Central,1,349.0,349.0,239.9,109.1
+ORD-10701,2024-02-04,Joshua Hernandez,Ergonomic Mesh Office Chair,Furniture,South,1,289.0,289.0,189.35,99.65
+ORD-10052,2024-02-04,Robert Allen,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,4,129.99,519.96,356.68,163.28
+ORD-11052,2024-02-04,Emily Anderson,Fast Wireless Charging Pad 15W,Accessories,West,6,32.5,195.0,98.7,96.3
+ORD-11180,2024-02-04,Anthony Anderson,Solid Oak Conference Table,Furniture,North,3,890.0,2670.0,1844.84,825.16
+ORD-10717,2024-02-06,Steven Hill,Magnetic Whiteboard 48x36,Office Supplies,East,1,95.0,95.0,60.89,34.11
+ORD-10190,2024-02-06,Nancy Moore,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,1,24.5,24.5,10.46,14.04
+ORD-11059,2024-02-07,Joseph Miller,Executive High-Back Leather Chair,Furniture,North,2,349.0,698.0,438.52,259.48
+ORD-10055,2024-02-08,Steven Lopez,Dry Erase Marker 24-Color Pack,Office Supplies,West,1,19.99,19.99,8.62,11.37
+ORD-10610,2024-02-09,James Jones,Keychron Mechanical Wireless Keyboard,Accessories,North,1,119.0,119.0,69.78,49.22
+ORD-11081,2024-02-09,Linda White,5-Tier Industrial Bookshelf,Furniture,North,3,185.0,555.0,302.44,252.56
+ORD-10132,2024-02-09,Mary Moore,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,349.67,149.33
+ORD-10468,2024-02-10,Steven Lopez,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,276.29,103.7
+ORD-10700,2024-02-11,Kimberly Taylor,Surge Protector 12-Outlet Power Strip,Accessories,Central,1,38.0,38.0,20.3,17.7
+ORD-10356,2024-02-12,Paul Thomas,Executive High-Back Leather Chair,Furniture,West,2,349.0,698.0,499.86,198.14
+ORD-10796,2024-02-12,Andrew Walker,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,216.37,132.63
+ORD-10685,2024-02-15,David White,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,1,54.5,54.5,44.1,10.4
+ORD-11012,2024-02-15,Andrew Garcia,Dry Erase Marker 24-Color Pack,Office Supplies,Central,4,19.99,79.96,38.95,41.01
+ORD-11071,2024-02-15,Joshua Gonzalez,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,1,129.99,129.99,91.64,38.35
+ORD-10970,2024-02-16,Joshua Gonzalez,Ergonomic Mesh Office Chair,Furniture,East,1,289.0,289.0,169.53,119.47
+ORD-10744,2024-02-16,Joshua Jones,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,651.47,238.53
+ORD-11147,2024-02-18,Betty White,Logitech MX Master 3S Wireless Mouse,Accessories,North,3,99.99,299.97,190.36,109.61
+ORD-10667,2024-02-18,Sandra Smith,Dell XPS 15 Laptop,Electronics,South,1,1499.99,1499.99,1039.16,460.83
+ORD-10172,2024-02-19,Robert Wright,Logitech MX Master 3S Wireless Mouse,Accessories,East,1,99.99,99.99,54.24,45.75
+ORD-10054,2024-02-19,Brian Walker,HP LaserJet Pro Multifunction Printer,Electronics,West,3,329.0,987.0,767.58,219.42
+ORD-11113,2024-02-19,Brian Young,Keychron Mechanical Wireless Keyboard,Accessories,Central,3,119.0,357.0,220.77,136.23
+ORD-10001,2024-02-21,Paul Davis,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,251.11,128.88
+ORD-11207,2024-02-21,David White,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,248.28,131.71
+ORD-10360,2024-02-23,Karen Thomas,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,2,29.99,59.98,26.41,33.57
+ORD-10383,2024-02-23,Patricia Thomas,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,5,29.99,149.95,70.27,79.68
+ORD-10651,2024-02-23,Joseph Miller,Anker 10-in-1 USB-C Hub,Electronics,North,2,89.99,179.98,91.94,88.04
+ORD-10571,2024-02-24,Mark Nguyen,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,365.08,133.92
+ORD-11141,2024-02-24,Jessica Walker,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,3,54.5,163.5,134.37,29.13
+ORD-10642,2024-02-25,Steven Miller,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,232.72,167.26
+ORD-10709,2024-02-26,William Torres,Magnetic Whiteboard 48x36,Office Supplies,East,1,95.0,95.0,59.45,35.55
+ORD-10712,2024-02-27,Paul Davis,Samsung 34-Inch Curved Monitor,Electronics,North,1,549.5,549.5,393.68,155.82
+ORD-10614,2024-02-27,Kimberly Smith,Commercial Heavy-Duty Stapler Set,Office Supplies,North,1,34.9,34.9,18.64,16.26
+ORD-10706,2024-02-27,Matthew Moore,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,131.56,68.43
+ORD-10850,2024-02-28,John Anderson,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,1,24.5,24.5,10.24,14.26
+ORD-10310,2024-02-28,George Jones,Motorized Standing Desk 60x30,Furniture,North,3,499.0,1497.0,1086.17,410.83
+ORD-10153,2024-02-28,Joseph Lee,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,4,54.5,218.0,169.5,48.5
+ORD-10799,2024-02-28,David Robinson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,2,54.5,109.0,92.39,16.61
+ORD-11177,2024-02-29,William Miller,Commercial Heavy-Duty Stapler Set,Office Supplies,South,2,34.9,69.8,33.07,36.73
+ORD-10105,2024-02-29,Joseph Lee,Commercial Heavy-Duty Stapler Set,Office Supplies,South,1,34.9,34.9,19.09,15.81
+ORD-10979,2024-02-29,Thomas Williams,Magnetic Whiteboard 48x36,Office Supplies,East,3,95.0,285.0,185.19,99.81
+ORD-11038,2024-02-29,Elizabeth Taylor,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,355.09,143.91
+ORD-11138,2024-03-01,Melissa Martin,Surge Protector 12-Outlet Power Strip,Accessories,North,5,38.0,190.0,98.2,91.8
+ORD-10128,2024-03-01,Thomas Williams,Anker 10-in-1 USB-C Hub,Electronics,North,1,89.99,89.99,56.39,33.6
+ORD-10739,2024-03-01,James Jones,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,113.6,71.4
+ORD-10505,2024-03-02,Kevin Martin,Logitech MX Master 3S Wireless Mouse,Accessories,North,2,99.99,199.98,129.91,70.07
+ORD-10555,2024-03-02,Steven Lopez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,3,29.99,89.97,38.84,51.13
+ORD-11161,2024-03-02,James Jones,HP LaserJet Pro Multifunction Printer,Electronics,North,1,329.0,329.0,245.22,83.78
+ORD-10994,2024-03-03,Joseph Rodriguez,Samsung 34-Inch Curved Monitor,Electronics,North,1,549.5,549.5,352.83,196.67
+ORD-10577,2024-03-04,Kevin Martin,Aluminum Laptop Stand Riser,Accessories,West,2,45.0,90.0,50.01,39.99
+ORD-10645,2024-03-05,James Jones,Logitech 4K Pro Webcam,Electronics,East,1,199.99,199.99,133.63,66.36
+ORD-10526,2024-03-06,Mark Davis,Solid Oak Conference Table,Furniture,South,1,890.0,890.0,636.93,253.07
+ORD-10957,2024-03-06,Margaret Nguyen,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,31.69,33.31
+ORD-10361,2024-03-09,Robert Perez,Mobile 3-Drawer File Cabinet,Furniture,North,4,145.0,580.0,358.15,221.85
+ORD-10157,2024-03-09,Brian Young,Fast Wireless Charging Pad 15W,Accessories,North,2,32.5,65.0,33.64,31.36
+ORD-10121,2024-03-10,Andrew Garcia,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,369.22,129.78
+ORD-10221,2024-03-10,Mary Scott,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,5,129.99,649.95,426.01,223.94
+ORD-11014,2024-03-10,Brian Walker,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,4,29.99,119.96,57.56,62.4
+ORD-10780,2024-03-12,Joshua Hernandez,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,3,24.5,73.5,28.28,45.22
+ORD-10813,2024-03-13,Joseph Jones,Magnetic Whiteboard 48x36,Office Supplies,North,2,95.0,190.0,105.38,84.62
+ORD-10974,2024-03-13,Robert Wilson,Mobile 3-Drawer File Cabinet,Furniture,South,1,145.0,145.0,87.31,57.69
+ORD-11206,2024-03-13,Kimberly Smith,Keychron Mechanical Wireless Keyboard,Accessories,Central,1,119.0,119.0,80.05,38.95
+ORD-11218,2024-03-14,William Torres,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,2,24.5,49.0,23.15,25.85
+ORD-10402,2024-03-14,Matthew Garcia,Aluminum Laptop Stand Riser,Accessories,Central,5,45.0,225.0,107.15,117.85
+ORD-10412,2024-03-15,Paul Thomas,Logitech 4K Pro Webcam,Electronics,South,2,199.99,399.98,235.9,164.08
+ORD-10399,2024-03-15,James Jones,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,48.96,41.03
+ORD-10533,2024-03-15,Linda Martinez,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,93.91,51.09
+ORD-10210,2024-03-15,Kevin Davis,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,3,24.5,73.5,28.11,45.39
+ORD-10763,2024-03-16,David Robinson,Keychron Mechanical Wireless Keyboard,Accessories,Central,1,119.0,119.0,76.23,42.77
+ORD-11021,2024-03-16,William Torres,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,248.95,131.04
+ORD-11023,2024-03-17,Elizabeth Wilson,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,213.98,135.02
+ORD-10155,2024-03-18,Anthony Anderson,Fast Wireless Charging Pad 15W,Accessories,West,4,32.5,130.0,71.08,58.92
+ORD-10886,2024-03-18,Kevin Allen,Logitech MX Master 3S Wireless Mouse,Accessories,West,2,99.99,199.98,114.4,85.58
+ORD-10453,2024-03-19,James Jones,Fast Wireless Charging Pad 15W,Accessories,South,1,32.5,32.5,18.26,14.24
+ORD-10423,2024-03-20,Sarah Smith,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,1,54.5,54.5,44.69,9.81
+ORD-10482,2024-03-20,Michael Thompson,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,878.62,320.38
+ORD-10115,2024-03-20,Anthony Anderson,Surge Protector 12-Outlet Power Strip,Accessories,East,5,38.0,190.0,97.52,92.48
+ORD-10031,2024-03-20,Patricia Anderson,Fast Wireless Charging Pad 15W,Accessories,West,2,32.5,65.0,38.88,26.12
+ORD-10469,2024-03-23,Robert Perez,Logitech MX Master 3S Wireless Mouse,Accessories,Central,3,99.99,299.97,168.25,131.72
+ORD-11134,2024-03-24,Mary Nguyen,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,4,54.5,218.0,186.82,31.18
+ORD-10100,2024-03-24,William Torres,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,23.2,21.8
+ORD-11125,2024-03-24,Richard Jones,Commercial Heavy-Duty Stapler Set,Office Supplies,North,6,34.9,209.4,104.85,104.55
+ORD-10090,2024-03-25,David Ramirez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,3,54.5,163.5,139.49,24.01
+ORD-10127,2024-03-27,Amanda Wright,Dry Erase Marker 24-Color Pack,Office Supplies,South,1,19.99,19.99,9.78,10.21
+ORD-10387,2024-03-27,Amanda Davis,Anker 10-in-1 USB-C Hub,Electronics,Central,1,89.99,89.99,54.86,35.13
+ORD-10837,2024-03-27,Linda White,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,237.01,142.98
+ORD-10180,2024-03-28,Elizabeth White,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,224.14,124.86
+ORD-10038,2024-03-28,Margaret Nguyen,Keychron Mechanical Wireless Keyboard,Accessories,North,2,119.0,238.0,159.02,78.98
+ORD-10094,2024-03-28,David White,HP LaserJet Pro Multifunction Printer,Electronics,Central,1,329.0,329.0,249.29,79.71
+ORD-10898,2024-03-28,William Rodriguez,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,343.59,155.41
+ORD-11171,2024-03-29,Thomas King,Motorized Standing Desk 60x30,Furniture,East,3,499.0,1497.0,1055.18,441.82
+ORD-11142,2024-03-29,Nancy Miller,Surge Protector 12-Outlet Power Strip,Accessories,North,4,38.0,152.0,87.13,64.87
+ORD-10223,2024-03-30,Patricia Anderson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,5,54.5,272.5,213.18,59.32
+ORD-10406,2024-03-31,Mary Moore,Dell XPS 15 Laptop,Electronics,West,2,1499.99,2999.98,2395.72,604.26
+ORD-10139,2024-03-31,John Anderson,5-Tier Industrial Bookshelf,Furniture,North,2,185.0,370.0,223.97,146.03
+ORD-10296,2024-04-01,Emily Anderson,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,917.01,281.99
+ORD-10972,2024-04-01,Karen Thomas,Keychron Mechanical Wireless Keyboard,Accessories,Central,8,119.0,952.0,578.18,373.82
+ORD-11185,2024-04-01,Mary Scott,Logitech MX Master 3S Wireless Mouse,Accessories,East,4,99.99,399.96,222.81,177.15
+ORD-10599,2024-04-01,John Anderson,Logitech MX Master 3S Wireless Mouse,Accessories,East,3,99.99,299.97,196.5,103.47
+ORD-11101,2024-04-01,Andrew Walker,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,88.56,56.44
+ORD-10899,2024-04-01,Jessica Anderson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,3,29.99,89.97,46.96,43.01
+ORD-11169,2024-04-05,Linda White,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,4,54.5,218.0,163.66,54.34
+ORD-10344,2024-04-06,Kevin Hernandez,Ergonomic Mesh Office Chair,Furniture,South,3,289.0,867.0,547.79,319.21
+ORD-10794,2024-04-07,Joseph Rodriguez,Apple MacBook Air M2,Electronics,West,1,1199.0,1199.0,928.68,270.32
+ORD-10231,2024-04-07,Thomas Williams,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,23.48,21.52
+ORD-11095,2024-04-08,David Robinson,Fast Wireless Charging Pad 15W,Accessories,Central,6,32.5,195.0,112.25,82.75
+ORD-10578,2024-04-08,Emily Anderson,Logitech 4K Pro Webcam,Electronics,North,2,199.99,399.98,266.54,133.44
+ORD-10586,2024-04-08,Mark Nguyen,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,4,24.5,98.0,45.45,52.55
+ORD-10807,2024-04-09,William Thomas,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,3,54.5,163.5,125.79,37.71
+ORD-11219,2024-04-09,Joshua Robinson,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,588.71,301.29
+ORD-10847,2024-04-09,Kevin Hernandez,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1106.15,393.84
+ORD-11094,2024-04-09,Elizabeth White,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,367.45,131.55
+ORD-10007,2024-04-10,Daniel Wilson,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,4,129.99,519.96,355.65,164.31
+ORD-10800,2024-04-10,Richard Wright,Motorized Standing Desk 60x30,Furniture,South,2,499.0,998.0,703.97,294.03
+ORD-10111,2024-04-12,Mary Moore,Fast Wireless Charging Pad 15W,Accessories,North,5,32.5,162.5,96.91,65.59
+ORD-10553,2024-04-12,Sandra White,Mobile 3-Drawer File Cabinet,Furniture,West,1,145.0,145.0,88.54,56.46
+ORD-10216,2024-04-13,Amanda Wright,Executive High-Back Leather Chair,Furniture,North,2,349.0,698.0,492.99,205.01
+ORD-10377,2024-04-13,Joshua Gonzalez,HP LaserJet Pro Multifunction Printer,Electronics,West,2,329.0,658.0,457.77,200.23
+ORD-10954,2024-04-13,Richard Wright,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,414.87,134.63
+ORD-10572,2024-04-13,James Jones,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,50.37,39.62
+ORD-10252,2024-04-13,John Anderson,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,48.93,41.06
+ORD-10385,2024-04-13,Margaret Hernandez,Fast Wireless Charging Pad 15W,Accessories,West,2,32.5,65.0,35.18,29.82
+ORD-10398,2024-04-14,David Wright,Keychron Mechanical Wireless Keyboard,Accessories,West,5,119.0,595.0,390.01,204.99
+ORD-10148,2024-04-14,Kimberly Smith,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1092.28,407.71
+ORD-10066,2024-04-15,Robert Wright,Logitech 4K Pro Webcam,Electronics,East,2,199.99,399.98,270.33,129.65
+ORD-10181,2024-04-17,Betty White,Apple MacBook Air M2,Electronics,North,2,1199.0,2398.0,1724.66,673.34
+ORD-10937,2024-04-18,David White,Dell XPS 15 Laptop,Electronics,West,2,1499.99,2999.98,2128.78,871.2
+ORD-10297,2024-04-18,Karen Thomas,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,243.59,105.41
+ORD-10372,2024-04-18,Richard Jones,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,92.64,52.36
+ORD-10694,2024-04-19,Elizabeth White,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,268.56,131.42
+ORD-10716,2024-04-19,Jennifer Young,Apple MacBook Air M2,Electronics,South,2,1199.0,2398.0,1976.43,421.57
+ORD-11103,2024-04-19,Karen Thomas,Ergonomic Mesh Office Chair,Furniture,East,2,289.0,578.0,399.79,178.21
+ORD-10943,2024-04-19,Melissa Martin,Logitech 4K Pro Webcam,Electronics,West,1,199.99,199.99,130.95,69.04
+ORD-10178,2024-04-20,Susan Wright,Dry Erase Marker 24-Color Pack,Office Supplies,West,2,19.99,39.98,19.63,20.35
+ORD-10944,2024-04-20,Robert Wright,Logitech MX Master 3S Wireless Mouse,Accessories,North,3,99.99,299.97,175.84,124.13
+ORD-11107,2024-04-20,Ashley Johnson,Fast Wireless Charging Pad 15W,Accessories,East,2,32.5,65.0,33.19,31.81
+ORD-11045,2024-04-20,Kevin Hernandez,Magnetic Whiteboard 48x36,Office Supplies,Central,2,95.0,190.0,123.25,66.75
+ORD-10845,2024-04-21,Jennifer Brown,Ergonomic Mesh Office Chair,Furniture,Central,1,289.0,289.0,198.68,90.32
+ORD-10050,2024-04-22,Deborah Scott,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,981.48,217.52
+ORD-11229,2024-04-22,Joshua Gonzalez,Anker 10-in-1 USB-C Hub,Electronics,South,2,89.99,179.98,112.36,67.62
+ORD-10235,2024-04-23,Mary Nguyen,Magnetic Whiteboard 48x36,Office Supplies,North,5,95.0,475.0,260.25,214.75
+ORD-11040,2024-04-23,Sandra White,Logitech MX Master 3S Wireless Mouse,Accessories,East,3,99.99,299.97,189.67,110.3
+ORD-10835,2024-04-23,Andrew Walker,Apple MacBook Air M2,Electronics,North,2,1199.0,2398.0,2549.3,-151.3
+ORD-10730,2024-04-24,David White,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,Central,3,24.5,73.5,27.07,46.43
+ORD-10873,2024-04-25,Joseph Rodriguez,Commercial Heavy-Duty Stapler Set,Office Supplies,Central,3,34.9,104.7,52.33,52.37
+ORD-10206,2024-04-25,Betty White,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,1,24.5,24.5,9.57,14.93
+ORD-10198,2024-04-25,Melissa Brown,Anker 10-in-1 USB-C Hub,Electronics,South,3,89.99,269.97,169.58,100.39
+ORD-10095,2024-04-26,Patricia Anderson,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,3,129.99,389.97,270.22,119.75
+ORD-10292,2024-04-27,Susan Wright,Magnetic Whiteboard 48x36,Office Supplies,West,5,95.0,475.0,299.93,175.07
+ORD-10486,2024-04-29,John Perez,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,254.1,125.89
+ORD-10926,2024-04-30,Amanda Ramirez,HP LaserJet Pro Multifunction Printer,Electronics,North,3,329.0,987.0,657.82,329.18
+ORD-10261,2024-05-01,Donna Anderson,Dell XPS 15 Laptop,Electronics,South,2,1499.99,2999.98,2392.75,607.23
+ORD-10041,2024-05-01,Kevin Allen,Surge Protector 12-Outlet Power Strip,Accessories,North,2,38.0,76.0,40.7,35.3
+ORD-10724,2024-05-01,Andrew Garcia,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,4,24.5,98.0,38.2,59.8
+ORD-11168,2024-05-01,Melissa Brown,Fast Wireless Charging Pad 15W,Accessories,West,1,32.5,32.5,16.14,16.36
+ORD-10278,2024-05-02,Linda Martinez,Logitech MX Master 3S Wireless Mouse,Accessories,North,8,99.99,799.92,462.79,337.13
+ORD-10883,2024-05-02,Joshua Ramirez,Surge Protector 12-Outlet Power Strip,Accessories,Central,1,38.0,38.0,20.6,17.4
+ORD-10236,2024-05-05,Kimberly Taylor,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,5,129.99,649.95,389.22,260.73
+ORD-10478,2024-05-05,Mark Davis,Dry Erase Marker 24-Color Pack,Office Supplies,East,3,19.99,59.97,23.96,36.01
+ORD-10271,2024-05-06,Patricia Anderson,Magnetic Whiteboard 48x36,Office Supplies,Central,4,95.0,380.0,217.67,162.33
+ORD-11211,2024-05-06,Deborah Nguyen,Dell XPS 15 Laptop,Electronics,East,2,1499.99,2999.98,2160.33,839.65
+ORD-10582,2024-05-06,Edward Taylor,Dry Erase Marker 24-Color Pack,Office Supplies,Central,4,19.99,79.96,36.85,43.11
+ORD-11221,2024-05-07,Brian Walker,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,1,24.5,24.5,11.16,13.34
+ORD-10678,2024-05-08,Robert Wilson,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,5,24.5,122.5,57.05,65.45
+ORD-10753,2024-05-09,Thomas Williams,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,3,29.99,89.97,43.11,46.86
+ORD-10369,2024-05-09,Patricia Anderson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,4,29.99,119.96,55.7,64.26
+ORD-10557,2024-05-09,Kevin Hernandez,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,234.68,145.31
+ORD-10575,2024-05-09,Matthew Harris,Surge Protector 12-Outlet Power Strip,Accessories,Central,1,38.0,38.0,20.12,17.88
+ORD-10076,2024-05-10,David White,Fast Wireless Charging Pad 15W,Accessories,East,4,32.5,130.0,71.71,58.29
+ORD-10832,2024-05-10,Emily Hernandez,Commercial Heavy-Duty Stapler Set,Office Supplies,South,2,34.9,69.8,38.55,31.25
+ORD-10458,2024-05-11,Patricia Anderson,Dry Erase Marker 24-Color Pack,Office Supplies,East,2,19.99,39.98,16.06,23.92
+ORD-10506,2024-05-11,Edward Gonzalez,Commercial Heavy-Duty Stapler Set,Office Supplies,West,5,34.9,174.5,91.06,83.44
+ORD-10006,2024-05-12,Linda Martinez,Anker 10-in-1 USB-C Hub,Electronics,West,3,89.99,269.97,280.05,-10.08
+ORD-11132,2024-05-13,Matthew Moore,Solid Oak Conference Table,Furniture,West,2,890.0,1780.0,1339.29,440.71
+ORD-10853,2024-05-13,Sarah Smith,Dry Erase Marker 24-Color Pack,Office Supplies,East,2,19.99,39.98,15.66,24.32
+ORD-10008,2024-05-13,Jennifer Harris,Anker 10-in-1 USB-C Hub,Electronics,South,4,89.99,359.96,208.6,151.36
+ORD-10053,2024-05-14,Lisa Torres,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,329.51,169.49
+ORD-11122,2024-05-14,Richard Jones,Aluminum Laptop Stand Riser,Accessories,North,1,45.0,45.0,22.91,22.09
+ORD-10019,2024-05-15,Joseph Miller,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,1275.71,-76.71
+ORD-10325,2024-05-15,Brian Walker,Logitech MX Master 3S Wireless Mouse,Accessories,West,2,99.99,199.98,125.57,74.41
+ORD-10138,2024-05-16,Kevin Allen,Heavy-Duty Cross-Cut Shredder,Office Supplies,Central,2,129.99,259.98,174.92,85.06
+ORD-10484,2024-05-17,Jennifer Harris,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,893.67,305.33
+ORD-10149,2024-05-17,William Rodriguez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,1,54.5,54.5,44.31,10.19
+ORD-10901,2024-05-17,Linda Martinez,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,4,129.99,519.96,357.46,162.5
+ORD-10983,2024-05-18,Andrew Garcia,Logitech MX Master 3S Wireless Mouse,Accessories,South,1,99.99,99.99,57.32,42.67
+ORD-10464,2024-05-19,Amanda Davis,Executive High-Back Leather Chair,Furniture,North,1,349.0,349.0,211.75,137.25
+ORD-10981,2024-05-20,Linda Jackson,Fast Wireless Charging Pad 15W,Accessories,East,1,32.5,32.5,15.61,16.89
+ORD-10091,2024-05-20,Margaret Nguyen,Samsung 34-Inch Curved Monitor,Electronics,East,3,549.5,1648.5,1200.35,448.15
+ORD-11243,2024-05-21,Jennifer Brown,Motorized Standing Desk 60x30,Furniture,East,2,499.0,998.0,713.45,284.55
+ORD-11088,2024-05-21,Jennifer Nguyen,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,4,54.5,218.0,174.01,43.99
+ORD-10220,2024-05-23,Andrew Garcia,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,4,29.99,119.96,53.02,66.94
+ORD-10321,2024-05-24,Steven Young,Sony WH-1000XM5 Headphones,Electronics,West,2,379.99,759.98,533.05,226.93
+ORD-11160,2024-05-25,David Wright,Heavy-Duty Cross-Cut Shredder,Office Supplies,Central,3,129.99,389.97,274.44,115.53
+ORD-10099,2024-05-25,Elizabeth White,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,1,54.5,54.5,43.92,10.58
+ORD-10806,2024-05-25,Amanda Davis,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1059.03,440.96
+ORD-10336,2024-05-26,John Perez,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,2,129.99,259.98,183.88,76.1
+ORD-10209,2024-05-26,Steven Miller,Magnetic Whiteboard 48x36,Office Supplies,North,3,95.0,285.0,162.17,122.83
+ORD-10798,2024-05-27,Sarah Smith,HP LaserJet Pro Multifunction Printer,Electronics,West,3,329.0,987.0,733.87,253.13
+ORD-10342,2024-05-27,Joshua Ramirez,5-Tier Industrial Bookshelf,Furniture,North,1,185.0,185.0,118.52,66.48
+ORD-10528,2024-05-27,David Ramirez,Keychron Mechanical Wireless Keyboard,Accessories,South,2,119.0,238.0,134.82,103.18
+ORD-10266,2024-05-28,Mark King,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,Central,5,24.5,122.5,54.92,67.58
+ORD-10147,2024-05-30,Lisa Torres,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,4,24.5,98.0,45.48,52.52
+ORD-11131,2024-05-30,Amanda Wright,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,366.63,182.87
+ORD-11108,2024-05-30,Jessica Anderson,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,267.64,112.35
+ORD-10308,2024-05-30,Brian Moore,Ergonomic Mesh Office Chair,Furniture,West,2,289.0,578.0,357.36,220.64
+ORD-10283,2024-05-31,Steven Young,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,319.11,179.89
+ORD-11182,2024-05-31,Susan Young,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,257.02,122.97
+ORD-11152,2024-06-01,Sarah Smith,Fast Wireless Charging Pad 15W,Accessories,North,2,32.5,65.0,36.09,28.91
+ORD-11003,2024-06-01,Margaret Hernandez,Samsung 34-Inch Curved Monitor,Electronics,North,1,549.5,549.5,352.6,196.9
+ORD-11063,2024-06-02,Susan Anderson,5-Tier Industrial Bookshelf,Furniture,East,2,185.0,370.0,224.12,145.88
+ORD-10362,2024-06-02,Brian Young,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,25.03,19.97
+ORD-10158,2024-06-03,Kevin Flores,Logitech 4K Pro Webcam,Electronics,East,1,199.99,199.99,114.59,85.4
+ORD-11090,2024-06-04,James Jones,Motorized Standing Desk 60x30,Furniture,East,2,499.0,998.0,644.2,353.8
+ORD-10010,2024-06-04,Mary Scott,HP LaserJet Pro Multifunction Printer,Electronics,North,1,329.0,329.0,251.16,77.84
+ORD-10802,2024-06-07,Kevin Allen,HP LaserJet Pro Multifunction Printer,Electronics,South,1,329.0,329.0,247.47,81.53
+ORD-10202,2024-06-09,Nancy Miller,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,6,129.99,779.94,536.6,243.34
+ORD-10602,2024-06-10,Mary Scott,Sony WH-1000XM5 Headphones,Electronics,North,4,379.99,1519.96,1542.13,-22.17
+ORD-10628,2024-06-10,Elizabeth Wilson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,3,54.5,163.5,132.09,31.41
+ORD-10259,2024-06-11,Elizabeth Wilson,Solid Oak Conference Table,Furniture,Central,1,890.0,890.0,629.37,260.63
+ORD-10251,2024-06-11,Steven Young,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,2,29.99,59.98,25.24,34.74
+ORD-10433,2024-06-12,Jennifer Nguyen,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,86.11,58.89
+ORD-10833,2024-06-12,Karen Thomas,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,121.3,78.69
+ORD-10640,2024-06-13,Elizabeth Taylor,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,Central,3,24.5,73.5,34.21,39.29
+ORD-10688,2024-06-13,Emily Smith,Fast Wireless Charging Pad 15W,Accessories,South,2,32.5,65.0,33.16,31.84
+ORD-10229,2024-06-14,Susan Young,Magnetic Whiteboard 48x36,Office Supplies,North,4,95.0,380.0,237.3,142.7
+ORD-11242,2024-06-15,Steven Young,HP LaserJet Pro Multifunction Printer,Electronics,South,1,329.0,329.0,244.56,84.44
+ORD-11145,2024-06-16,Brian Moore,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,3,129.99,389.97,255.99,133.98
+ORD-10652,2024-06-16,Kevin Davis,Mobile 3-Drawer File Cabinet,Furniture,East,2,145.0,290.0,173.39,116.61
+ORD-10295,2024-06-16,Margaret Nguyen,Sony WH-1000XM5 Headphones,Electronics,West,2,379.99,759.98,508.17,251.81
+ORD-11019,2024-06-16,Melissa Martin,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,1,29.99,29.99,14.68,15.31
+ORD-10632,2024-06-17,David Wright,Motorized Standing Desk 60x30,Furniture,West,1,499.0,499.0,341.98,157.02
+ORD-10779,2024-06-17,Karen Thomas,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,3,24.5,73.5,30.14,43.36
+ORD-10425,2024-06-19,Joshua Robinson,Fast Wireless Charging Pad 15W,Accessories,South,2,32.5,65.0,37.05,27.95
+ORD-10012,2024-06-19,Paul Thomas,Motorized Standing Desk 60x30,Furniture,North,2,499.0,998.0,647.35,350.65
+ORD-10211,2024-06-20,Betty Moore,Samsung 34-Inch Curved Monitor,Electronics,Central,1,549.5,549.5,403.54,145.96
+ORD-10757,2024-06-20,Jennifer Nguyen,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,641.06,248.94
+ORD-10192,2024-06-23,Richard Wright,Logitech MX Master 3S Wireless Mouse,Accessories,West,3,99.99,299.97,162.64,137.33
+ORD-10870,2024-06-23,Robert Allen,Surge Protector 12-Outlet Power Strip,Accessories,West,2,38.0,76.0,35.67,40.33
+ORD-10337,2024-06-24,Jennifer Nguyen,Ergonomic Mesh Office Chair,Furniture,North,3,289.0,867.0,595.2,271.8
+ORD-10228,2024-06-26,Betty Moore,Mobile 3-Drawer File Cabinet,Furniture,South,1,145.0,145.0,148.34,-3.34
+ORD-10775,2024-06-26,Joshua Hernandez,Solid Oak Conference Table,Furniture,East,2,890.0,1780.0,1178.72,601.28
+ORD-10117,2024-06-27,William Thomas,Dry Erase Marker 24-Color Pack,Office Supplies,West,1,19.99,19.99,8.02,11.97
+ORD-10276,2024-06-27,Lisa Torres,Logitech MX Master 3S Wireless Mouse,Accessories,South,1,99.99,99.99,57.96,42.03
+ORD-10945,2024-06-27,Amanda Wright,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,249.02,99.98
+ORD-11083,2024-06-27,Deborah Nguyen,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,135.48,64.51
+ORD-10646,2024-06-28,Joshua Jones,Surge Protector 12-Outlet Power Strip,Accessories,North,2,38.0,76.0,36.15,39.85
+ORD-10113,2024-06-30,Andrew Lee,Solid Oak Conference Table,Furniture,East,3,890.0,2670.0,1918.54,751.46
+ORD-10705,2024-06-30,Joshua Hernandez,5-Tier Industrial Bookshelf,Furniture,East,1,185.0,185.0,101.89,83.11
+ORD-11155,2024-06-30,John Perez,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,2,24.5,49.0,21.56,27.44
+ORD-10583,2024-06-30,Daniel Wilson,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,3,129.99,389.97,231.26,158.71
+ORD-11112,2024-07-01,Jessica Anderson,Dell XPS 15 Laptop,Electronics,South,1,1499.99,1499.99,1138.04,361.95
+ORD-10962,2024-07-02,Daniel Wilson,HP LaserJet Pro Multifunction Printer,Electronics,Central,2,329.0,658.0,488.99,169.01
+ORD-10363,2024-07-03,Steven Miller,Logitech MX Master 3S Wireless Mouse,Accessories,Central,1,99.99,99.99,56.97,43.02
+ORD-10613,2024-07-04,Sarah Perez,Samsung 34-Inch Curved Monitor,Electronics,South,2,549.5,1099.0,822.52,276.48
+ORD-10420,2024-07-04,Kevin Allen,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,124.27,75.72
+ORD-10313,2024-07-04,Jennifer Brown,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,192.16,96.84
+ORD-10067,2024-07-05,Mark King,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,5,29.99,149.95,72.14,77.81
+ORD-11117,2024-07-05,Paul Davis,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,561.38,-11.88
+ORD-10058,2024-07-06,Margaret Williams,5-Tier Industrial Bookshelf,Furniture,South,1,185.0,185.0,121.15,63.85
+ORD-10872,2024-07-06,Mary Nguyen,Dry Erase Marker 24-Color Pack,Office Supplies,South,1,19.99,19.99,8.42,11.57
+ORD-10341,2024-07-07,Kevin Scott,Mobile 3-Drawer File Cabinet,Furniture,West,1,145.0,145.0,98.4,46.6
+ORD-10483,2024-07-07,Matthew Moore,Keychron Mechanical Wireless Keyboard,Accessories,South,1,119.0,119.0,67.35,51.65
+ORD-10005,2024-07-07,Joseph Jones,Dell XPS 15 Laptop,Electronics,Central,3,1499.99,4499.97,3518.27,981.7
+ORD-10840,2024-07-07,Margaret Nguyen,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,948.48,250.52
+ORD-10703,2024-07-07,Sandra White,Magnetic Whiteboard 48x36,Office Supplies,East,8,95.0,760.0,474.02,285.98
+ORD-10908,2024-07-07,Kimberly Smith,Executive High-Back Leather Chair,Furniture,East,4,349.0,1396.0,973.59,422.41
+ORD-10781,2024-07-08,Patricia Thomas,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,53.51,36.48
+ORD-11173,2024-07-08,Sandra Smith,Surge Protector 12-Outlet Power Strip,Accessories,North,3,38.0,114.0,55.03,58.97
+ORD-11223,2024-07-08,Mark King,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,120.22,79.77
+ORD-10107,2024-07-10,Andrew Lee,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,Central,5,54.5,272.5,233.72,38.78
+ORD-10457,2024-07-10,Robert Perez,Dell XPS 15 Laptop,Electronics,Central,2,1499.99,2999.98,2169.27,830.71
+ORD-10852,2024-07-11,Andrew Garcia,Ergonomic Mesh Office Chair,Furniture,North,2,289.0,578.0,386.52,191.48
+ORD-10611,2024-07-12,Brian Moore,Logitech MX Master 3S Wireless Mouse,Accessories,North,3,99.99,299.97,194.89,105.08
+ORD-10120,2024-07-13,Michael Thompson,Samsung 34-Inch Curved Monitor,Electronics,East,1,549.5,549.5,390.42,159.08
+ORD-10436,2024-07-13,Edward Gonzalez,Ergonomic Mesh Office Chair,Furniture,North,3,289.0,867.0,505.35,361.65
+ORD-10207,2024-07-15,Emily Hernandez,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,1,24.5,24.5,9.67,14.83
+ORD-10046,2024-07-15,Betty White,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,227.37,101.63
+ORD-10769,2024-07-15,Linda Martinez,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,1,24.5,24.5,25.74,-1.24
+ORD-10616,2024-07-16,Steven Young,Logitech MX Master 3S Wireless Mouse,Accessories,East,2,99.99,199.98,109.61,90.37
+ORD-10721,2024-07-16,Joshua Robinson,Sony WH-1000XM5 Headphones,Electronics,South,2,379.99,759.98,481.71,278.27
+ORD-10074,2024-07-17,Kevin Scott,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,105.48,79.52
+ORD-10238,2024-07-18,David Wright,Dry Erase Marker 24-Color Pack,Office Supplies,North,8,19.99,159.92,69.07,90.85
+ORD-10241,2024-07-18,David White,Logitech 4K Pro Webcam,Electronics,East,2,199.99,399.98,228.47,171.51
+ORD-10750,2024-07-20,Matthew Harris,Magnetic Whiteboard 48x36,Office Supplies,East,3,95.0,285.0,157.12,127.88
+ORD-11008,2024-07-24,Brian Walker,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,906.65,292.35
+ORD-10044,2024-07-24,Charles Garcia,Sony WH-1000XM5 Headphones,Electronics,East,2,379.99,759.98,524.47,235.51
+ORD-10783,2024-07-24,Emily Smith,Fast Wireless Charging Pad 15W,Accessories,North,2,32.5,65.0,38.06,26.94
+ORD-11130,2024-07-24,Margaret Williams,Dell XPS 15 Laptop,Electronics,South,1,1499.99,1499.99,1141.84,358.15
+ORD-10366,2024-07-25,Edward Taylor,Aluminum Laptop Stand Riser,Accessories,East,2,45.0,90.0,43.82,46.18
+ORD-10727,2024-07-25,Mark Davis,Logitech MX Master 3S Wireless Mouse,Accessories,West,4,99.99,399.96,237.03,162.93
+ORD-11225,2024-07-26,Robert Allen,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,880.12,318.88
+ORD-11163,2024-07-26,Robert Wilson,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,237.31,142.68
+ORD-10729,2024-07-26,Brian Moore,Magnetic Whiteboard 48x36,Office Supplies,West,1,95.0,95.0,53.43,41.57
+ORD-10820,2024-07-27,Emily Anderson,Logitech MX Master 3S Wireless Mouse,Accessories,North,3,99.99,299.97,186.82,113.15
+ORD-10838,2024-07-27,Matthew Harris,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,246.32,133.67
+ORD-10975,2024-07-28,Richard Wright,Anker 10-in-1 USB-C Hub,Electronics,West,1,89.99,89.99,56.61,33.38
+ORD-10134,2024-07-28,David Robinson,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,1,24.5,24.5,11.24,13.26
+ORD-10587,2024-07-28,Susan Young,Ergonomic Mesh Office Chair,Furniture,East,2,289.0,578.0,383.52,194.48
+ORD-10156,2024-07-29,Linda Jackson,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,680.7,209.3
+ORD-10014,2024-07-30,Anthony Anderson,Samsung 34-Inch Curved Monitor,Electronics,East,1,549.5,549.5,360.41,189.09
+ORD-10875,2024-07-31,Matthew Moore,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,933.71,265.29
+ORD-10243,2024-07-31,Jennifer Nguyen,Dell XPS 15 Laptop,Electronics,North,3,1499.99,4499.97,3476.33,1023.64
+ORD-10064,2024-08-02,Mark Davis,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,904.61,294.39
+ORD-11041,2024-08-02,Emily Hernandez,Logitech MX Master 3S Wireless Mouse,Accessories,North,1,99.99,99.99,59.54,40.45
+ORD-10803,2024-08-02,Brian Young,Keychron Mechanical Wireless Keyboard,Accessories,West,1,119.0,119.0,68.7,50.3
+ORD-10960,2024-08-03,Nancy Moore,Executive High-Back Leather Chair,Furniture,North,1,349.0,349.0,229.68,119.32
+ORD-11072,2024-08-03,David Ramirez,Dell XPS 15 Laptop,Electronics,West,1,1499.99,1499.99,1185.59,314.4
+ORD-10869,2024-08-04,Linda Martinez,Aluminum Laptop Stand Riser,Accessories,South,3,45.0,135.0,74.98,60.02
+ORD-11202,2024-08-05,Joshua Jones,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,1,29.99,29.99,14.95,15.04
+ORD-10011,2024-08-06,Charles Garcia,Dry Erase Marker 24-Color Pack,Office Supplies,East,3,19.99,59.97,25.81,34.16
+ORD-11204,2024-08-06,Robert Allen,Ergonomic Mesh Office Chair,Furniture,West,2,289.0,578.0,354.27,223.73
+ORD-10760,2024-08-08,Joshua Ramirez,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,908.63,290.37
+ORD-10793,2024-08-08,Steven Miller,Magnetic Whiteboard 48x36,Office Supplies,East,5,95.0,475.0,301.35,173.65
+ORD-11156,2024-08-09,Karen Thomas,Logitech 4K Pro Webcam,Electronics,West,1,199.99,199.99,117.94,82.05
+ORD-10472,2024-08-09,Betty Robinson,Surge Protector 12-Outlet Power Strip,Accessories,Central,1,38.0,38.0,20.23,17.77
+ORD-10288,2024-08-09,Mary Moore,Motorized Standing Desk 60x30,Furniture,East,2,499.0,998.0,626.2,371.8
+ORD-10564,2024-08-09,Betty White,Samsung 34-Inch Curved Monitor,Electronics,West,1,549.5,549.5,359.51,189.99
+ORD-10968,2024-08-10,Linda White,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,268.26,131.72
+ORD-10669,2024-08-11,Joseph Miller,Aluminum Laptop Stand Riser,Accessories,East,2,45.0,90.0,44.82,45.18
+ORD-10032,2024-08-13,Paul Davis,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,340.51,158.49
+ORD-10680,2024-08-13,Nancy Moore,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,986.49,212.51
+ORD-10692,2024-08-13,Sandra Smith,Logitech MX Master 3S Wireless Mouse,Accessories,East,1,99.99,99.99,63.36,36.63
+ORD-10427,2024-08-13,Elizabeth White,Samsung 34-Inch Curved Monitor,Electronics,East,1,549.5,549.5,355.34,194.16
+ORD-10263,2024-08-15,Sandra Smith,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,173.53,115.47
+ORD-10298,2024-08-15,Steven Hill,Apple MacBook Air M2,Electronics,East,2,1199.0,2398.0,1858.31,539.69
+ORD-10106,2024-08-16,Ashley Johnson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,2,29.99,59.98,28.08,31.9
+ORD-10911,2024-08-16,Richard Jones,Samsung 34-Inch Curved Monitor,Electronics,North,1,549.5,549.5,394.79,154.71
+ORD-10938,2024-08-16,Lisa Torres,Dry Erase Marker 24-Color Pack,Office Supplies,Central,6,19.99,119.94,58.51,61.43
+ORD-10617,2024-08-17,Kevin Hernandez,Solid Oak Conference Table,Furniture,South,2,890.0,1780.0,1224.9,555.1
+ORD-10918,2024-08-18,Jennifer Nguyen,Logitech 4K Pro Webcam,Electronics,North,2,199.99,399.98,253.38,146.6
+ORD-10986,2024-08-18,Mary Garcia,Logitech 4K Pro Webcam,Electronics,South,3,199.99,599.97,345.74,254.23
+ORD-11157,2024-08-19,Paul Davis,Surge Protector 12-Outlet Power Strip,Accessories,South,1,38.0,38.0,20.73,17.27
+ORD-10666,2024-08-19,Patricia Anderson,5-Tier Industrial Bookshelf,Furniture,Central,1,185.0,185.0,113.36,71.64
+ORD-11027,2024-08-20,William Miller,Surge Protector 12-Outlet Power Strip,Accessories,West,2,38.0,76.0,35.85,40.15
+ORD-10971,2024-08-20,Kimberly Taylor,Ergonomic Mesh Office Chair,Furniture,West,2,289.0,578.0,348.81,229.19
+ORD-10723,2024-08-21,David Ramirez,Mobile 3-Drawer File Cabinet,Furniture,West,1,145.0,145.0,81.93,63.07
+ORD-11240,2024-08-21,Andrew Walker,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,1,29.99,29.99,13.99,16.0
+ORD-10444,2024-08-21,Mark Nguyen,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,119.53,80.46
+ORD-10460,2024-08-21,Richard Jones,HP LaserJet Pro Multifunction Printer,Electronics,North,2,329.0,658.0,455.32,202.68
+ORD-10133,2024-08-21,Andrew Lee,Logitech MX Master 3S Wireless Mouse,Accessories,Central,1,99.99,99.99,107.18,-7.19
+ORD-10511,2024-08-23,Sarah Perez,5-Tier Industrial Bookshelf,Furniture,South,2,185.0,370.0,211.28,158.72
+ORD-11001,2024-08-24,Matthew Garcia,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,222.89,106.11
+ORD-10317,2024-08-24,Brian Walker,Keychron Mechanical Wireless Keyboard,Accessories,East,2,119.0,238.0,158.11,79.89
+ORD-10977,2024-08-24,Steven Miller,Samsung 34-Inch Curved Monitor,Electronics,North,1,549.5,549.5,416.85,132.65
+ORD-10367,2024-08-25,Andrew Garcia,Commercial Heavy-Duty Stapler Set,Office Supplies,North,10,34.9,349.0,180.76,168.24
+ORD-10174,2024-08-26,Elizabeth Taylor,Commercial Heavy-Duty Stapler Set,Office Supplies,North,5,34.9,174.5,95.89,78.61
+ORD-10649,2024-08-26,Mary Nguyen,Fast Wireless Charging Pad 15W,Accessories,Central,5,32.5,162.5,89.23,73.27
+ORD-10626,2024-08-26,Emily Hernandez,Executive High-Back Leather Chair,Furniture,North,1,349.0,349.0,213.19,135.81
+ORD-10490,2024-08-26,Richard Jones,Magnetic Whiteboard 48x36,Office Supplies,North,2,95.0,190.0,114.51,75.49
+ORD-11093,2024-08-27,Mark Nguyen,Solid Oak Conference Table,Furniture,North,1,890.0,890.0,676.12,213.88
+ORD-10242,2024-08-29,Edward Taylor,Logitech 4K Pro Webcam,Electronics,North,2,199.99,399.98,267.28,132.7
+ORD-10358,2024-08-29,Amanda Davis,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,254.76,74.24
+ORD-11220,2024-08-30,Robert Perez,Anker 10-in-1 USB-C Hub,Electronics,Central,1,89.99,89.99,51.39,38.6
+ORD-10920,2024-08-30,Andrew Walker,Executive High-Back Leather Chair,Furniture,East,2,349.0,698.0,483.51,214.49
+ORD-11068,2024-08-30,James Jones,Solid Oak Conference Table,Furniture,West,1,890.0,890.0,631.67,258.33
+ORD-10355,2024-08-31,Elizabeth Wilson,Executive High-Back Leather Chair,Furniture,South,3,349.0,1047.0,653.43,393.57
+ORD-10086,2024-08-31,Jennifer Brown,Executive High-Back Leather Chair,Furniture,North,1,349.0,349.0,221.24,127.76
+ORD-10754,2024-09-01,Kimberly Smith,Executive High-Back Leather Chair,Furniture,North,2,349.0,698.0,450.76,247.24
+ORD-10045,2024-09-01,Paul Thomas,Surge Protector 12-Outlet Power Strip,Accessories,West,3,38.0,114.0,62.28,51.72
+ORD-10748,2024-09-02,Jessica Anderson,Commercial Heavy-Duty Stapler Set,Office Supplies,North,5,34.9,174.5,80.41,94.09
+ORD-10293,2024-09-02,Brian Young,Samsung 34-Inch Curved Monitor,Electronics,East,1,549.5,549.5,375.54,173.96
+ORD-10661,2024-09-03,Mary Garcia,Surge Protector 12-Outlet Power Strip,Accessories,West,3,38.0,114.0,58.45,55.55
+ORD-10704,2024-09-03,Joseph Rodriguez,Logitech MX Master 3S Wireless Mouse,Accessories,West,5,99.99,499.95,296.07,203.88
+ORD-11080,2024-09-04,Robert Wright,Fast Wireless Charging Pad 15W,Accessories,West,1,32.5,32.5,17.57,14.93
+ORD-10168,2024-09-05,Mary Garcia,Dell XPS 15 Laptop,Electronics,North,3,1499.99,4499.97,3474.35,1025.62
+ORD-10485,2024-09-06,Linda Martinez,Anker 10-in-1 USB-C Hub,Electronics,North,1,89.99,89.99,52.79,37.2
+ORD-10568,2024-09-06,Jennifer Brown,Aluminum Laptop Stand Riser,Accessories,East,4,45.0,180.0,81.66,98.34
+ORD-10177,2024-09-08,Jennifer Harris,Surge Protector 12-Outlet Power Strip,Accessories,West,1,38.0,38.0,21.82,16.18
+ORD-11097,2024-09-08,Andrew Lee,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,415.32,134.18
+ORD-10973,2024-09-09,Kevin Martin,Commercial Heavy-Duty Stapler Set,Office Supplies,Central,6,34.9,209.4,105.4,104.0
+ORD-11203,2024-09-09,Margaret Hernandez,HP LaserJet Pro Multifunction Printer,Electronics,North,1,329.0,329.0,219.71,109.29
+ORD-10878,2024-09-10,Thomas Williams,Dry Erase Marker 24-Color Pack,Office Supplies,West,3,19.99,59.97,25.45,34.52
+ORD-10566,2024-09-10,Joshua Gonzalez,Logitech MX Master 3S Wireless Mouse,Accessories,South,3,99.99,299.97,169.43,130.54
+ORD-10635,2024-09-10,Kevin Davis,Commercial Heavy-Duty Stapler Set,Office Supplies,West,2,34.9,69.8,34.03,35.77
+ORD-10935,2024-09-10,Michael Thompson,Logitech MX Master 3S Wireless Mouse,Accessories,Central,6,99.99,599.94,365.59,234.35
+ORD-10866,2024-09-10,Paul Taylor,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,3,24.5,73.5,31.33,42.17
+ORD-10200,2024-09-11,Elizabeth Wilson,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,331.61,167.39
+ORD-11018,2024-09-11,Karen Thomas,Solid Oak Conference Table,Furniture,North,2,890.0,1780.0,1195.38,584.62
+ORD-10124,2024-09-12,Joshua Ramirez,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,6,29.99,179.94,90.53,89.41
+ORD-11056,2024-09-12,Amanda Wright,Fast Wireless Charging Pad 15W,Accessories,West,6,32.5,195.0,109.76,85.24
+ORD-10828,2024-09-12,Susan Young,HP LaserJet Pro Multifunction Printer,Electronics,East,3,329.0,987.0,740.43,246.57
+ORD-11129,2024-09-12,Kevin Hernandez,Sony WH-1000XM5 Headphones,Electronics,West,3,379.99,1139.97,762.92,377.05
+ORD-11201,2024-09-12,Emily Jackson,Dell XPS 15 Laptop,Electronics,North,2,1499.99,2999.98,2182.58,817.4
+ORD-10166,2024-09-13,Margaret Nguyen,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,4,129.99,519.96,313.88,206.08
+ORD-10413,2024-09-14,Daniel Wilson,Surge Protector 12-Outlet Power Strip,Accessories,Central,1,38.0,38.0,21.34,16.66
+ORD-10545,2024-09-15,Matthew Garcia,Surge Protector 12-Outlet Power Strip,Accessories,South,3,38.0,114.0,55.2,58.8
+ORD-10501,2024-09-15,Patricia Thomas,Aluminum Laptop Stand Riser,Accessories,East,2,45.0,90.0,49.09,40.91
+ORD-10390,2024-09-16,Elizabeth White,Heavy-Duty Cross-Cut Shredder,Office Supplies,North,1,129.99,129.99,79.92,50.07
+ORD-11135,2024-09-16,Mark Davis,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,236.6,143.39
+ORD-10818,2024-09-16,Richard Jones,Aluminum Laptop Stand Riser,Accessories,South,1,45.0,45.0,20.44,24.56
+ORD-10197,2024-09-17,Daniel Wilson,Surge Protector 12-Outlet Power Strip,Accessories,West,2,38.0,76.0,39.83,36.17
+ORD-10859,2024-09-18,Matthew Harris,Mobile 3-Drawer File Cabinet,Furniture,West,3,145.0,435.0,246.86,188.14
+ORD-10473,2024-09-18,Lisa Torres,Logitech MX Master 3S Wireless Mouse,Accessories,East,6,99.99,599.94,334.09,265.85
+ORD-10016,2024-09-18,Emily Anderson,Logitech MX Master 3S Wireless Mouse,Accessories,East,3,99.99,299.97,181.95,118.02
+ORD-10230,2024-09-18,Daniel Wilson,Aluminum Laptop Stand Riser,Accessories,Central,2,45.0,90.0,40.92,49.08
+ORD-10654,2024-09-18,David White,Keychron Mechanical Wireless Keyboard,Accessories,South,1,119.0,119.0,74.52,44.48
+ORD-10695,2024-09-19,Sandra Smith,Mobile 3-Drawer File Cabinet,Furniture,West,1,145.0,145.0,84.02,60.98
+ORD-10561,2024-09-19,Margaret Williams,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1172.78,327.21
+ORD-10711,2024-09-19,Emily Anderson,Aluminum Laptop Stand Riser,Accessories,West,2,45.0,90.0,47.62,42.38
+ORD-10683,2024-09-19,Jessica Moore,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,325.51,173.49
+ORD-10481,2024-09-20,Jessica Walker,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,2,29.99,59.98,29.3,30.68
+ORD-10343,2024-09-20,Steven Miller,Mobile 3-Drawer File Cabinet,Furniture,Central,1,145.0,145.0,92.23,52.77
+ORD-10373,2024-09-20,Andrew Walker,Anker 10-in-1 USB-C Hub,Electronics,East,1,89.99,89.99,45.94,44.05
+ORD-10857,2024-09-22,Sandra Smith,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,3,54.5,163.5,127.2,36.3
+ORD-10791,2024-09-23,Kevin Hernandez,Aluminum Laptop Stand Riser,Accessories,South,2,45.0,90.0,42.27,47.73
+ORD-11114,2024-09-23,Betty Moore,Aluminum Laptop Stand Riser,Accessories,West,3,45.0,135.0,65.8,69.2
+ORD-10786,2024-09-23,Sandra White,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,1,24.5,24.5,9.5,15.0
+ORD-10195,2024-09-24,Nancy Moore,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,1,24.5,24.5,11.26,13.24
+ORD-10173,2024-09-24,Joseph Rodriguez,Aluminum Laptop Stand Riser,Accessories,Central,1,45.0,45.0,24.36,20.64
+ORD-10114,2024-09-24,Susan Anderson,Ergonomic Mesh Office Chair,Furniture,East,3,289.0,867.0,606.63,260.37
+ORD-10912,2024-09-25,Jennifer Nguyen,Ergonomic Mesh Office Chair,Furniture,West,1,289.0,289.0,173.59,115.41
+ORD-10598,2024-09-25,Kimberly Taylor,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,5,29.99,149.95,158.47,-8.52
+ORD-10808,2024-09-26,Elizabeth White,Magnetic Whiteboard 48x36,Office Supplies,West,1,95.0,95.0,53.41,41.59
+ORD-10264,2024-09-26,Mark King,Mobile 3-Drawer File Cabinet,Furniture,North,2,145.0,290.0,163.5,126.5
+ORD-10767,2024-09-27,Nancy Miller,Executive High-Back Leather Chair,Furniture,North,2,349.0,698.0,428.12,269.88
+ORD-10024,2024-09-27,Joshua Ramirez,Logitech 4K Pro Webcam,Electronics,Central,1,199.99,199.99,115.89,84.1
+ORD-10354,2024-09-27,Andrew Lee,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,675.35,214.65
+ORD-10552,2024-09-28,Sandra White,Fast Wireless Charging Pad 15W,Accessories,North,4,32.5,130.0,65.25,64.75
+ORD-10160,2024-09-28,Kevin Allen,Keychron Mechanical Wireless Keyboard,Accessories,East,1,119.0,119.0,79.91,39.09
+ORD-10435,2024-09-29,Charles Garcia,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,South,8,54.5,436.0,374.84,61.16
+ORD-11236,2024-09-30,William Torres,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,1,129.99,129.99,78.95,51.04
+ORD-10256,2024-09-30,Patricia Thomas,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,8,24.5,196.0,79.82,116.18
+ORD-11170,2024-09-30,William Thomas,Mobile 3-Drawer File Cabinet,Furniture,South,1,145.0,145.0,90.61,54.39
+ORD-10580,2024-10-01,William Rodriguez,Executive High-Back Leather Chair,Furniture,West,3,349.0,1047.0,644.87,402.13
+ORD-10353,2024-10-02,Amanda Ramirez,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,2,24.5,49.0,50.85,-1.85
+ORD-10777,2024-10-02,Joseph Miller,Mobile 3-Drawer File Cabinet,Furniture,West,2,145.0,290.0,163.43,126.57
+ORD-11070,2024-10-03,Richard Jones,Samsung 34-Inch Curved Monitor,Electronics,Central,1,549.5,549.5,397.92,151.58
+ORD-10401,2024-10-03,Mark Davis,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,North,6,54.5,327.0,248.18,78.82
+ORD-10311,2024-10-03,Karen Thomas,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,1,129.99,129.99,82.07,47.92
+ORD-10925,2024-10-03,Ashley Johnson,Anker 10-in-1 USB-C Hub,Electronics,South,1,89.99,89.99,54.5,35.49
+ORD-10824,2024-10-04,Joseph Rodriguez,Magnetic Whiteboard 48x36,Office Supplies,West,2,95.0,190.0,121.16,68.84
+ORD-10956,2024-10-04,Jessica Anderson,Executive High-Back Leather Chair,Furniture,East,2,349.0,698.0,496.84,201.16
+ORD-10419,2024-10-05,William Rodriguez,Commercial Heavy-Duty Stapler Set,Office Supplies,West,2,34.9,69.8,35.48,34.32
+ORD-10639,2024-10-06,Matthew Harris,Apple MacBook Air M2,Electronics,West,1,1199.0,1199.0,875.22,323.78
+ORD-10690,2024-10-06,Anthony Anderson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,2,54.5,109.0,85.37,23.63
+ORD-10815,2024-10-06,Kimberly Taylor,Samsung 34-Inch Curved Monitor,Electronics,East,2,549.5,1099.0,826.52,272.48
+ORD-10607,2024-10-07,Elizabeth Taylor,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,2,129.99,259.98,275.69,-15.71
+ORD-11189,2024-10-09,Kevin Flores,Dry Erase Marker 24-Color Pack,Office Supplies,West,2,19.99,39.98,15.97,24.01
+ORD-11043,2024-10-11,Emily Jackson,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,2,129.99,259.98,158.4,101.58
+ORD-10179,2024-10-12,Joshua Gonzalez,Solid Oak Conference Table,Furniture,West,2,890.0,1780.0,1207.04,572.96
+ORD-10380,2024-10-12,Emily Smith,Aluminum Laptop Stand Riser,Accessories,Central,6,45.0,270.0,124.41,145.59
+ORD-10856,2024-10-13,Emily Anderson,Dell XPS 15 Laptop,Electronics,West,2,1499.99,2999.98,2203.06,796.92
+ORD-10437,2024-10-13,Joseph Jones,Aluminum Laptop Stand Riser,Accessories,West,8,45.0,360.0,158.46,201.54
+ORD-10047,2024-10-14,David White,Surge Protector 12-Outlet Power Strip,Accessories,West,2,38.0,76.0,37.14,38.86
+ORD-10020,2024-10-14,Matthew Moore,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,334.02,-5.02
+ORD-10441,2024-10-14,Donna Anderson,Mobile 3-Drawer File Cabinet,Furniture,North,1,145.0,145.0,88.77,56.23
+ORD-10785,2024-10-14,Thomas King,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,538.43,-39.43
+ORD-10475,2024-10-16,Emily Hernandez,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,614.05,275.95
+ORD-10376,2024-10-16,Paul Thomas,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,South,2,24.5,49.0,18.31,30.69
+ORD-10988,2024-10-16,Steven Hill,Commercial Heavy-Duty Stapler Set,Office Supplies,North,3,34.9,104.7,57.77,46.93
+ORD-10836,2024-10-16,Jessica Walker,Anker 10-in-1 USB-C Hub,Electronics,South,1,89.99,89.99,48.88,41.11
+ORD-10982,2024-10-17,Melissa Brown,Logitech MX Master 3S Wireless Mouse,Accessories,East,3,99.99,299.97,194.12,105.85
+ORD-10540,2024-10-17,Joseph Miller,Surge Protector 12-Outlet Power Strip,Accessories,East,1,38.0,38.0,22.02,15.98
+ORD-11144,2024-10-18,Jennifer Harris,Dry Erase Marker 24-Color Pack,Office Supplies,North,3,19.99,59.97,27.92,32.05
+ORD-10882,2024-10-19,Matthew Moore,Surge Protector 12-Outlet Power Strip,Accessories,West,1,38.0,38.0,19.6,18.4
+ORD-10237,2024-10-19,Steven Hill,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,3,54.5,163.5,123.51,39.99
+ORD-10269,2024-10-20,Mary Nguyen,Aluminum Laptop Stand Riser,Accessories,South,2,45.0,90.0,49.94,40.06
+ORD-11015,2024-10-21,Elizabeth Taylor,5-Tier Industrial Bookshelf,Furniture,East,2,185.0,370.0,217.76,152.24
+ORD-10726,2024-10-22,Jennifer Harris,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,22.43,22.57
+ORD-10897,2024-10-22,Kevin Hernandez,Sony WH-1000XM5 Headphones,Electronics,North,2,379.99,759.98,483.5,276.48
+ORD-10185,2024-10-23,Thomas Williams,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,914.51,284.49
+ORD-10300,2024-10-23,Deborah Scott,5-Tier Industrial Bookshelf,Furniture,Central,1,185.0,185.0,119.21,65.79
+ORD-11194,2024-10-23,Kevin Davis,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,6,24.5,147.0,64.79,82.21
+ORD-10967,2024-10-24,Robert Wright,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,248.94,100.06
+ORD-11104,2024-10-24,Kimberly Taylor,Samsung 34-Inch Curved Monitor,Electronics,South,1,549.5,549.5,411.5,138.0
+ORD-10612,2024-10-25,Robert Wilson,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1577.64,-77.65
+ORD-10788,2024-10-27,Robert Wilson,HP LaserJet Pro Multifunction Printer,Electronics,West,1,329.0,329.0,222.57,106.43
+ORD-10152,2024-10-28,William Torres,Surge Protector 12-Outlet Power Strip,Accessories,East,5,38.0,190.0,97.21,92.79
+ORD-11037,2024-10-29,James Jones,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,237.19,111.81
+ORD-10756,2024-10-30,John Perez,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,Central,3,24.5,73.5,32.04,41.46
+ORD-10253,2024-10-31,Karen Thomas,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,1,29.99,29.99,12.68,17.31
+ORD-11099,2024-10-31,Jennifer Harris,Sony WH-1000XM5 Headphones,Electronics,South,2,379.99,759.98,530.7,229.28
+ORD-10633,2024-10-31,Andrew Lee,5-Tier Industrial Bookshelf,Furniture,East,3,185.0,555.0,304.88,250.12
+ORD-10910,2024-10-31,Linda White,Commercial Heavy-Duty Stapler Set,Office Supplies,East,3,34.9,104.7,59.15,45.55
+ORD-10541,2024-10-31,Joseph Jones,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1099.97,400.02
+ORD-10565,2024-10-31,Jessica Anderson,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,256.83,123.16
+ORD-10500,2024-11-01,Kevin Hernandez,Dry Erase Marker 24-Color Pack,Office Supplies,East,1,19.99,19.99,8.26,11.73
+ORD-10887,2024-11-01,Edward Taylor,Mobile 3-Drawer File Cabinet,Furniture,East,2,145.0,290.0,170.81,119.19
+ORD-10431,2024-11-02,Deborah Scott,Ergonomic Mesh Office Chair,Furniture,South,1,289.0,289.0,192.6,96.4
+ORD-10738,2024-11-02,Kevin Hernandez,Samsung 34-Inch Curved Monitor,Electronics,East,2,549.5,1099.0,750.96,348.04
+ORD-11126,2024-11-03,Steven Young,Logitech 4K Pro Webcam,Electronics,West,2,199.99,399.98,242.73,157.25
+ORD-10662,2024-11-03,Mary Nguyen,Commercial Heavy-Duty Stapler Set,Office Supplies,South,1,34.9,34.9,18.56,16.34
+ORD-10123,2024-11-05,Betty Robinson,Motorized Standing Desk 60x30,Furniture,North,3,499.0,1497.0,1067.96,429.04
+ORD-10772,2024-11-06,Betty Moore,Sony WH-1000XM5 Headphones,Electronics,North,3,379.99,1139.97,784.22,355.75
+ORD-11024,2024-11-06,Sarah Perez,Keychron Mechanical Wireless Keyboard,Accessories,East,2,119.0,238.0,149.34,88.66
+ORD-10345,2024-11-07,Andrew Lee,Samsung 34-Inch Curved Monitor,Electronics,West,1,549.5,549.5,367.93,181.57
+ORD-10881,2024-11-07,Margaret Nguyen,Fast Wireless Charging Pad 15W,Accessories,East,1,32.5,32.5,18.46,14.04
+ORD-10543,2024-11-08,Anthony Anderson,Keychron Mechanical Wireless Keyboard,Accessories,East,3,119.0,357.0,229.94,127.06
+ORD-10770,2024-11-10,Kimberly Taylor,Apple MacBook Air M2,Electronics,South,1,1199.0,1199.0,880.17,318.83
+ORD-10722,2024-11-13,Kevin Flores,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,232.48,147.51
+ORD-10035,2024-11-13,William Thomas,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,600.99,289.01
+ORD-11033,2024-11-14,Joseph Lee,HP LaserJet Pro Multifunction Printer,Electronics,East,1,329.0,329.0,234.35,94.65
+ORD-10069,2024-11-15,Andrew Lee,Solid Oak Conference Table,Furniture,North,3,890.0,2670.0,1820.46,849.54
+ORD-10026,2024-11-16,Jessica Moore,Fast Wireless Charging Pad 15W,Accessories,West,2,32.5,65.0,37.34,27.66
+ORD-10559,2024-11-16,Brian Young,Solid Oak Conference Table,Furniture,East,2,890.0,1780.0,1306.86,473.14
+ORD-10843,2024-11-17,Emily Anderson,Magnetic Whiteboard 48x36,Office Supplies,North,6,95.0,570.0,360.09,209.91
+ORD-10603,2024-11-17,Elizabeth White,Surge Protector 12-Outlet Power Strip,Accessories,North,3,38.0,114.0,63.87,50.13
+ORD-11110,2024-11-17,Betty White,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,2,24.5,49.0,23.04,25.96
+ORD-10584,2024-11-17,Mary Garcia,Anker 10-in-1 USB-C Hub,Electronics,South,2,89.99,179.98,113.03,66.95
+ORD-10013,2024-11-18,Kimberly Smith,Executive High-Back Leather Chair,Furniture,East,3,349.0,1047.0,1102.99,-55.99
+ORD-10790,2024-11-18,Matthew Garcia,Surge Protector 12-Outlet Power Strip,Accessories,North,1,38.0,38.0,21.83,16.17
+ORD-10523,2024-11-18,John Lee,Commercial Heavy-Duty Stapler Set,Office Supplies,South,1,34.9,34.9,18.81,16.09
+ORD-10573,2024-11-19,Steven Lopez,Sony WH-1000XM5 Headphones,Electronics,West,1,379.99,379.99,261.82,118.17
+ORD-10093,2024-11-19,James Jones,Motorized Standing Desk 60x30,Furniture,East,2,499.0,998.0,639.74,358.26
+ORD-11011,2024-11-19,Mark Nguyen,Mobile 3-Drawer File Cabinet,Furniture,East,2,145.0,290.0,165.36,124.64
+ORD-10309,2024-11-19,Donna Anderson,Solid Oak Conference Table,Furniture,South,3,890.0,2670.0,2078.02,591.98
+ORD-10693,2024-11-20,Matthew Harris,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,2,29.99,59.98,25.16,34.82
+ORD-11127,2024-11-20,Joshua Lee,Fast Wireless Charging Pad 15W,Accessories,South,2,32.5,65.0,38.77,26.23
+ORD-11073,2024-11-20,Amanda Ramirez,Sony WH-1000XM5 Headphones,Electronics,South,1,379.99,379.99,274.93,105.06
+ORD-10743,2024-11-21,Joseph Rodriguez,Aluminum Laptop Stand Riser,Accessories,West,5,45.0,225.0,103.5,121.5
+ORD-10947,2024-11-21,Betty Moore,Apple MacBook Air M2,Electronics,North,1,1199.0,1199.0,940.37,258.63
+ORD-11184,2024-11-22,Anthony Anderson,Ergonomic Mesh Office Chair,Furniture,West,2,289.0,578.0,343.95,234.05
+ORD-10272,2024-11-23,Amanda Davis,Mobile 3-Drawer File Cabinet,Furniture,West,1,145.0,145.0,87.21,57.79
+ORD-10395,2024-11-23,Betty Robinson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,3,29.99,89.97,43.67,46.3
+ORD-10131,2024-11-23,Brian Walker,Keychron Mechanical Wireless Keyboard,Accessories,Central,8,119.0,952.0,625.04,326.96
+ORD-10409,2024-11-24,Nancy Miller,Samsung 34-Inch Curved Monitor,Electronics,East,1,549.5,549.5,394.54,154.96
+ORD-10062,2024-11-24,Andrew Lee,Mobile 3-Drawer File Cabinet,Furniture,Central,1,145.0,145.0,91.5,53.5
+ORD-11159,2024-11-24,Kimberly Taylor,Mobile 3-Drawer File Cabinet,Furniture,East,1,145.0,145.0,88.07,56.93
+ORD-11092,2024-11-24,Anthony Anderson,Solid Oak Conference Table,Furniture,North,2,890.0,1780.0,1320.18,459.82
+ORD-10885,2024-11-25,Paul Thomas,Commercial Heavy-Duty Stapler Set,Office Supplies,West,1,34.9,34.9,19.9,15.0
+ORD-11179,2024-11-25,Daniel Hill,Apple MacBook Air M2,Electronics,East,1,1199.0,1199.0,855.2,343.8
+ORD-10225,2024-11-26,Michael Thompson,Dell XPS 15 Laptop,Electronics,North,2,1499.99,2999.98,2321.26,678.72
+ORD-10858,2024-11-26,George Jones,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,6,129.99,779.94,552.85,227.09
+ORD-10951,2024-11-27,Paul Taylor,Motorized Standing Desk 60x30,Furniture,North,1,499.0,499.0,336.47,162.53
+ORD-10126,2024-11-28,Joseph Jones,Logitech 4K Pro Webcam,Electronics,East,3,199.99,599.97,382.52,217.45
+ORD-10510,2024-11-28,William Miller,Ergonomic Mesh Office Chair,Furniture,South,1,289.0,289.0,173.78,115.22
+ORD-10277,2024-11-28,Melissa Martin,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,134.29,65.7
+ORD-10514,2024-11-29,Mary Moore,Ergonomic Keyboard Wrist Rest Set,Office Supplies,Central,3,29.99,89.97,92.46,-2.49
+ORD-10417,2024-11-30,Thomas Williams,Surge Protector 12-Outlet Power Strip,Accessories,East,10,38.0,380.0,178.13,201.87
+ORD-11100,2024-12-02,Kevin Martin,Logitech 4K Pro Webcam,Electronics,South,1,199.99,199.99,120.81,79.18
+ORD-10990,2024-12-02,Jennifer Young,Aluminum Laptop Stand Riser,Accessories,South,3,45.0,135.0,65.1,69.9
+ORD-10766,2024-12-02,Robert Wilson,Logitech 4K Pro Webcam,Electronics,West,3,199.99,599.97,344.07,255.9
+ORD-11058,2024-12-02,David Ramirez,Magnetic Whiteboard 48x36,Office Supplies,West,5,95.0,475.0,278.64,196.36
+ORD-10215,2024-12-02,Steven Young,Aluminum Laptop Stand Riser,Accessories,East,1,45.0,45.0,20.53,24.47
+ORD-11042,2024-12-02,Edward Gonzalez,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,245.42,103.58
+ORD-10446,2024-12-03,George Jones,Aluminum Laptop Stand Riser,Accessories,West,1,45.0,45.0,24.31,20.69
+ORD-10725,2024-12-03,Joshua Gonzalez,Solid Oak Conference Table,Furniture,Central,4,890.0,3560.0,2616.66,943.34
+ORD-10985,2024-12-03,Jennifer Brown,Aluminum Laptop Stand Riser,Accessories,West,2,45.0,90.0,92.54,-2.54
+ORD-11067,2024-12-03,William Thomas,Solid Oak Conference Table,Furniture,East,3,890.0,2670.0,1804.98,865.02
+ORD-10081,2024-12-03,Margaret Williams,Logitech 4K Pro Webcam,Electronics,North,1,199.99,199.99,119.29,80.7
+ORD-10491,2024-12-04,Jessica Moore,Ergonomic Keyboard Wrist Rest Set,Office Supplies,East,1,29.99,29.99,13.37,16.62
+ORD-10033,2024-12-04,Brian Walker,Fast Wireless Charging Pad 15W,Accessories,West,1,32.5,32.5,17.28,15.22
+ORD-10262,2024-12-05,Elizabeth White,Dell XPS 15 Laptop,Electronics,East,1,1499.99,1499.99,1138.0,361.99
+ORD-10728,2024-12-06,Andrew Lee,5-Tier Industrial Bookshelf,Furniture,West,1,185.0,185.0,100.78,84.22
+ORD-10842,2024-12-07,Jennifer Young,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,East,2,54.5,109.0,91.35,17.65
+ORD-10290,2024-12-07,David Ramirez,Logitech MX Master 3S Wireless Mouse,Accessories,Central,2,99.99,199.98,122.74,77.24
+ORD-10993,2024-12-07,Melissa Brown,Commercial Heavy-Duty Stapler Set,Office Supplies,West,4,34.9,139.6,75.98,63.62
+ORD-10995,2024-12-08,Betty Moore,Logitech 4K Pro Webcam,Electronics,West,3,199.99,599.97,379.01,220.96
+ORD-10021,2024-12-08,Jennifer Harris,Magnetic Whiteboard 48x36,Office Supplies,North,2,95.0,190.0,115.2,74.8
+ORD-10998,2024-12-08,Edward Gonzalez,Sony WH-1000XM5 Headphones,Electronics,North,2,379.99,759.98,532.65,227.33
+ORD-10811,2024-12-09,Jennifer Young,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,East,3,24.5,73.5,34.98,38.52
+ORD-10922,2024-12-09,Amanda Wright,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,North,2,24.5,49.0,23.23,25.77
+ORD-10470,2024-12-11,Andrew Walker,Self-Adhesive Sticky Notes Bulk Box,Office Supplies,West,1,24.5,24.5,10.55,13.95
+ORD-10535,2024-12-11,William Torres,5-Tier Industrial Bookshelf,Furniture,South,1,185.0,185.0,111.07,73.93
+ORD-10096,2024-12-11,Amanda Ramirez,Executive High-Back Leather Chair,Furniture,West,1,349.0,349.0,241.25,107.75
+ORD-10997,2024-12-11,Nancy Miller,Aluminum Laptop Stand Riser,Accessories,South,1,45.0,45.0,20.5,24.5
+ORD-11064,2024-12-12,William Miller,Surge Protector 12-Outlet Power Strip,Accessories,North,3,38.0,114.0,61.06,52.94
+ORD-10893,2024-12-13,Edward Robinson,Motorized Standing Desk 60x30,Furniture,South,2,499.0,998.0,627.83,370.17
+ORD-10051,2024-12-13,Jessica Anderson,Surge Protector 12-Outlet Power Strip,Accessories,East,2,38.0,76.0,43.56,32.44
+ORD-11031,2024-12-13,Jennifer Brown,Dry Erase Marker 24-Color Pack,Office Supplies,North,2,19.99,39.98,17.93,22.05
+ORD-10658,2024-12-14,Patricia Thomas,Aluminum Laptop Stand Riser,Accessories,North,2,45.0,90.0,46.47,43.53
+ORD-10940,2024-12-14,James Jones,Sony WH-1000XM5 Headphones,Electronics,East,1,379.99,379.99,403.25,-23.26
+ORD-11195,2024-12-14,Robert Wright,Ergonomic Keyboard Wrist Rest Set,Office Supplies,West,3,29.99,89.97,45.39,44.58
+ORD-10042,2024-12-14,Susan Young,Ergonomic Keyboard Wrist Rest Set,Office Supplies,South,1,29.99,29.99,14.77,15.22
+ORD-10137,2024-12-14,Amanda Davis,Heavy-Duty Cross-Cut Shredder,Office Supplies,East,4,129.99,519.96,362.02,157.94
+ORD-10489,2024-12-14,Linda White,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,256.48,123.51
+ORD-10334,2024-12-14,Lisa Torres,Executive High-Back Leather Chair,Furniture,West,2,349.0,698.0,473.56,224.44
+ORD-10648,2024-12-15,Kimberly Taylor,Heavy-Duty Cross-Cut Shredder,Office Supplies,South,4,129.99,519.96,356.04,163.92
+ORD-10761,2024-12-15,Nancy Moore,Surge Protector 12-Outlet Power Strip,Accessories,North,3,38.0,114.0,59.11,54.89
+ORD-11148,2024-12-15,Patricia Anderson,Logitech MX Master 3S Wireless Mouse,Accessories,East,1,99.99,99.99,57.61,42.38
+ORD-11054,2024-12-17,Sarah Smith,Solid Oak Conference Table,Furniture,East,1,890.0,890.0,613.71,276.29
+ORD-10657,2024-12-17,Michael Thompson,Sony WH-1000XM5 Headphones,Electronics,North,1,379.99,379.99,247.23,132.76
+ORD-10879,2024-12-18,John Anderson,Ergonomic Keyboard Wrist Rest Set,Office Supplies,North,3,29.99,89.97,37.24,52.73
+ORD-10440,2024-12-18,Jessica Walker,5-Tier Industrial Bookshelf,Furniture,East,2,185.0,370.0,225.59,144.41
+ORD-10579,2024-12-19,Sarah Perez,Solid Oak Conference Table,Furniture,West,3,890.0,2670.0,1964.88,705.12
+ORD-10950,2024-12-20,Emily Jackson,Surge Protector 12-Outlet Power Strip,Accessories,West,1,38.0,38.0,19.09,18.91
+ORD-10604,2024-12-20,William Torres,Fast Wireless Charging Pad 15W,Accessories,West,3,32.5,97.5,57.8,39.7
+ORD-10405,2024-12-21,Anthony Anderson,Dell XPS 15 Laptop,Electronics,North,1,1499.99,1499.99,1126.85,373.14
+ORD-10170,2024-12-21,Richard Jones,Commercial Heavy-Duty Stapler Set,Office Supplies,East,3,34.9,104.7,52.61,52.09
+ORD-10839,2024-12-22,Mary Nguyen,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,222.44,126.56
+ORD-10509,2024-12-22,Matthew Garcia,Motorized Standing Desk 60x30,Furniture,South,1,499.0,499.0,333.15,165.85
+ORD-11162,2024-12-22,Matthew Harris,Commercial Heavy-Duty Stapler Set,Office Supplies,North,1,34.9,34.9,18.04,16.86
+ORD-10103,2024-12-23,Sandra White,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,10,129.99,1299.9,804.96,494.94
+ORD-10656,2024-12-23,Betty Robinson,Fast Wireless Charging Pad 15W,Accessories,North,5,32.5,162.5,80.32,82.18
+ORD-11172,2024-12-25,Joshua Hernandez,Magnetic Whiteboard 48x36,Office Supplies,East,3,95.0,285.0,156.81,128.19
+ORD-10359,2024-12-26,Emily Jackson,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,5,54.5,272.5,203.91,68.59
+ORD-10101,2024-12-27,Michael Thompson,Executive High-Back Leather Chair,Furniture,East,1,349.0,349.0,213.3,135.7
+ORD-10072,2024-12-29,Kevin Hernandez,Premium Multipurpose Copy Paper (10 Reams),Office Supplies,West,1,54.5,54.5,41.78,12.72
+ORD-10201,2024-12-29,John Perez,Commercial Heavy-Duty Stapler Set,Office Supplies,West,2,34.9,69.8,38.5,31.3
+ORD-10868,2024-12-30,Joshua Jones,Motorized Standing Desk 60x30,Furniture,East,1,499.0,499.0,331.35,167.65
+ORD-11120,2024-12-31,Deborah Nguyen,Heavy-Duty Cross-Cut Shredder,Office Supplies,West,4,129.99,519.96,343.95,176.01
+ORD-10048,2024-12-31,Daniel Wilson,Ergonomic Mesh Office Chair,Furniture,South,1,289.0,289.0,186.35,102.65

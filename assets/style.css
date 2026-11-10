@@ -1,0 +1,180 @@
+/* ====================================================================
+   Sales Data Analysis Dashboard - Custom Theme & Stylesheet
+   ==================================================================== */
+
+/* Import modern typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+}
+
+/* --------------------------------------------------
+   Metric / KPI Cards
+   -------------------------------------------------- */
+.kpi-card {
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+    border: 1px solid #e2e8f0;
+    border-left: 5px solid #2563eb;
+    border-radius: 12px;
+    padding: 1.1rem 1.25rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin-bottom: 0.75rem;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+}
+
+.kpi-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #64748b;
+    margin-bottom: 0.35rem;
+}
+
+.kpi-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.2;
+}
+
+.kpi-subtext {
+    font-size: 0.8rem;
+    color: #10b981;
+    font-weight: 500;
+    margin-top: 0.35rem;
+}
+
+.kpi-subtext.negative {
+    color: #ef4444;
+}
+
+/* Card variants */
+.kpi-card-green {
+    border-left-color: #10b981;
+}
+
+.kpi-card-purple {
+    border-left-color: #8b5cf6;
+}
+
+.kpi-card-amber {
+    border-left-color: #f59e0b;
+}
+
+.kpi-card-cyan {
+    border-left-color: #06b6d4;
+}
+
+.kpi-card-rose {
+    border-left-color: #f43f5e;
+}
+
+/* --------------------------------------------------
+   Feature & Information Cards
+   -------------------------------------------------- */
+.info-box {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.insight-card {
+    background-color: #eff6ff;
+    border-left: 4px solid #3b82f6;
+    border-radius: 8px;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+    color: #1e3a8a;
+}
+
+.insight-card strong {
+    color: #1d4ed8;
+}
+
+.warning-card {
+    background-color: #fef3c7;
+    border-left: 4px solid #f59e0b;
+    border-radius: 8px;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.92rem;
+    color: #92400e;
+}
+
+.success-card {
+    background-color: #ecfdf5;
+    border-left: 4px solid #10b981;
+    border-radius: 8px;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.92rem;
+    color: #065f46;
+}
+
+/* --------------------------------------------------
+   Header styling
+   -------------------------------------------------- */
+.page-title {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.page-subtitle {
+    font-size: 1rem;
+    color: #64748b;
+    margin-bottom: 1.5rem;
+}
+
+/* --------------------------------------------------
+   Badge labels
+   -------------------------------------------------- */
+.badge {
+    display: inline-block;
+    padding: 0.25rem 0.55rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.badge-blue {
+    background-color: #dbeafe;
+    color: #1e40af;
+}
+
+.badge-green {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+.badge-amber {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+/* --------------------------------------------------
+   Footer
+   -------------------------------------------------- */
+.dashboard-footer {
+    text-align: center;
+    padding: 2rem 0 1rem 0;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    border-top: 1px solid #e2e8f0;
+    margin-top: 3rem;
+}
